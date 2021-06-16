@@ -1,0 +1,1743 @@
+; old: <bot>asparagos racemosus</bot> occurs 1 times
+; new: <bot>asparagus racemosus</bot> occurs 64 times
+;
+; 99034 : dvIpikA : Asparagos Racemosus : Asparagus Racemosus : typo or print change?=
+; <L>99034<pc>507,1<k1>dvIpikA<k2>dvIpikA<e>2
+333660 old <s>dvIpikA</s> ¦ <lex>f.</lex> <bot>Asparagos Racemosus</bot>, <ls>Car.</ls> (<ab>cf.</ab> <s>dvIpaSatru</s> and <s>dvIpya</s>). <info lex="f"/>
+333660 new <s>dvIpikA</s> ¦ <lex>f.</lex> <bot>Asparagus Racemosus</bot>, <ls>Car.</ls> (<ab>cf.</ab> <s>dvIpaSatru</s> and <s>dvIpya</s>). <info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>cyperue rotundus</bot> occurs 0 times
+; new: <bot>cyperus rotundus</bot> occurs 54 times
+;
+; ------------------------------------------------------
+; old: <bot>bignonia suaveoleus</bot> occurs 1 times
+; new: <bot>bignonia suaveolens</bot> occurs 54 times
+;
+; 188592 : vasantadUtI : Bignonia Suaveoleus : Bignonia Suaveolens : typo or print change?=
+; <L>188592<pc>930,1<k1>vasantadUtI<k2>vasanta/—dUtI<e>3B
+630433 old ¦ <bot>Bignonia Suaveoleus</bot><info lex="inh"/>
+630433 new ¦ <bot>Bignonia Suaveolens</bot><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>feronica elephantum</bot> occurs 1 times
+; new: <bot>feronia elephantum</bot> occurs 46 times
+;
+; 68783 : grAhiPala : Feronica elephantum : Feronia elephantum : typo or print change?=
+; <L>68783<pc>373,1<k1>grAhiPala<k2>grAhi—Pala<e>3
+234412 old <s>grAhi—Pala</s> ¦ <lex>m.</lex> ‘having astringent fruits’, <bot>Feronica elephantum</bot>, <ls>L.</ls><info lex="m"/>
+234412 new <s>grAhi—Pala</s> ¦ <lex>m.</lex> ‘having astringent fruits’, <bot>Feronia elephantum</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>achyrantes aspera</bot> occurs 1 times
+; new: <bot>achyranthes aspera</bot> occurs 44 times
+;
+; 22231 : AkfticCattrA : Achyrantes Aspera : Achyranthes Aspera : typo or print change?=
+; <L>22231<pc>127,3<k1>AkfticCattrA<k2>A/-kfti—cCattrA<e>3
+79858 old <s>A/-kfti—cCattrA</s> ¦ <lex>f.</lex> the plant <bot>Achyrantes Aspera</bot>, <ls>L.</ls><info lex="f"/>
+79858 new <s>A/-kfti—cCattrA</s> ¦ <lex>f.</lex> the plant <bot>Achyranthes Aspera</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>calatropis gigantea</bot> occurs 0 times
+; new: <bot>calotropis gigantea</bot> occurs 43 times
+;
+; ------------------------------------------------------
+; old: <bot>pandarus odoratissimus</bot> occurs 1 times
+; new: <bot>pandanus odoratissimus</bot> occurs 44 times
+;
+; 224086 : SlezmaGana : Pandarus Odoratissimus : Pandanus Odoratissimus : typo or print change?=
+; <L>224086<pc>1104,2<k1>SlezmaGana<k2>Slezma—Gana<e>3
+746115 old <s>Slezma—Gana</s> ¦ <lex>m.</lex> <bot>Pandarus Odoratissimus</bot>, <ls>L.</ls><info lex="m"/>
+746115 new <s>Slezma—Gana</s> ¦ <lex>m.</lex> <bot>Pandanus Odoratissimus</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>acacia catech</bot> occurs 1 times
+; new: <bot>acacia catechu</bot> occurs 44 times
+;
+; 90040 : dantakAzWa : Acacia Catech : Acacia Catechu : typo or print change?=
+; <L>90040<pc>468,3<k1>dantakAzWa<k2>da/nta—kAzWa<e>3B
+303874 old <s>da/nta—kAzWa</s> ¦ <lex>m.</lex> <ab>N.</ab> of various trees the wood of which is used for cleaning the teeth (<bot>Flacourtia sapida</bot>, <ls>L.</ls>; <bot>Asclepias gigantea</bot>, <bot>Ficus indica</bot>, <bot>Acacia Catech</bot>, <bot>Pongamia glabra</bot>, <bot>Terminalia alata</bot>), <ls>Npr.</ls><info lex="m"/>
+303874 new <s>da/nta—kAzWa</s> ¦ <lex>m.</lex> <ab>N.</ab> of various trees the wood of which is used for cleaning the teeth (<bot>Flacourtia sapida</bot>, <ls>L.</ls>; <bot>Asclepias gigantea</bot>, <bot>Ficus indica</bot>, <bot>Acacia Catechu</bot>, <bot>Pongamia glabra</bot>, <bot>Terminalia alata</bot>), <ls>Npr.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>calotrcpis gigantea</bot> occurs 1 times
+; new: <bot>calotropis gigantea</bot> occurs 43 times
+;
+; 239478 : savitf : Calotrcpis Gigantea : Calotropis Gigantea : typo or print change?=
+; <L>239478<pc>1190,2<k1>savitf<k2>savitf/<e>2A
+798211 old ¦ <bot>Calotrcpis Gigantea</bot>, <ls>L.</ls><info lex="inh"/>
+798211 new ¦ <bot>Calotropis Gigantea</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>aegle marinelos</bot> occurs 1 times
+; new: <bot>aegle marmelos</bot> occurs 43 times
+;
+; 212277 : SatAnana : Aegle Marinelos : Aegle Marmelos : typo or print change?=
+; <L>212277<pc>1050,3<k1>SatAnana<k2>SatAnana<e>3
+708729 old <s>SatA<srs/>nana</s> ¦ <lex>m.</lex> <bot>Aegle Marinelos</bot>, <ls>L.</ls><info lex="m"/>
+708729 new <s>SatA<srs/>nana</s> ¦ <lex>m.</lex> <bot>Aegle Marmelos</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>cyperue</bot> occurs 0 times
+; new: <bot>cyperus</bot> occurs 42 times
+;
+; ------------------------------------------------------
+; old: <bot>clytoria ternatea</bot> occurs 1 times
+; new: <bot>clitoria ternatea</bot> occurs 42 times
+;
+; 177190 : rADA : Clytoria Ternatea : Clitoria Ternatea : typo or print change?=
+; <L>177190<pc>876,3<k1>rADA<k2>rADA<e>2A
+593753 old ¦ <bot>Clytoria Ternatea</bot>, <ls>L.</ls><info lex="inh"/>
+593753 new ¦ <bot>Clitoria Ternatea</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>asa foitida</bot> occurs 2 times
+; new: <bot>asa foetida</bot> occurs 43 times
+;
+; 262808 : hiNgu : Asa Foitida : Asa Foetida : typo or print change?=
+; <L>262808<pc>1298,1<k1>hiNgu<k2>hiNgu<e>1B
+873752 old <s>hiNgu</s> ¦ <lex>n.</lex> a fluid or resinous substance prepared from the roots of the <bot>Asa Foitida</bot> (used as a medicine or for seasoning), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Suśr.</ls> &c.<info lex="n"/>
+873752 new <s>hiNgu</s> ¦ <lex>n.</lex> a fluid or resinous substance prepared from the roots of the <bot>Asa Foetida</bot> (used as a medicine or for seasoning), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Suśr.</ls> &c.<info lex="n"/>
+;
+; 262814 : hiNgupattra : Asa Foitida : Asa Foetida : typo or print change?=
+; <L>262814<pc>1298,1<k1>hiNgupattra<k2>hiNgu—pattra<e>3B
+873770 old <s>hiNgu—pattra</s> ¦ <lex>n.</lex> the leaf of the <bot>Asa Foitida</bot>, <ls>L.</ls><info lex="n"/>
+873770 new <s>hiNgu—pattra</s> ¦ <lex>n.</lex> the leaf of the <bot>Asa Foetida</bot>, <ls>L.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; old: <bot>wrightia antidysenteria</bot> occurs 4 times
+; new: <bot>wrightia antidysenterica</bot> occurs 43 times
+;
+; 45980 : kaliNga : Wrightia antidysenteria : Wrightia antidysenterica : typo or print change?=
+; <L>45980<pc>262,1<k1>kaliNga<k2>kaliNga<e>1B
+161078 old ¦ <bot>Wrightia antidysenteria</bot>, <ls>L.</ls><info lex="inh"/>
+161078 new ¦ <bot>Wrightia antidysenterica</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 45985 : kaliNga : Wrightia antidysenteria : Wrightia antidysenterica : typo or print change?=
+; <L>45985<pc>262,1<k1>kaliNga<k2>kaliNga<e>1B
+161093 old <s>kaliNga</s> ¦ <lex>n.</lex> the seed of <bot>Wrightia antidysenteria</bot>, <ls>Suśr.</ls><info lex="n"/>
+161093 new <s>kaliNga</s> ¦ <lex>n.</lex> the seed of <bot>Wrightia antidysenterica</bot>, <ls>Suśr.</ls><info lex="n"/>
+;
+; 45987 : kaliNgabIja : Wrightia antidysenteria : Wrightia antidysenterica : typo or print change?=
+; <L>45987<pc>262,1<k1>kaliNgabIja<k2>kaliNga—bIja<e>3
+161099 old <s>kaliNga—bIja</s> ¦ <lex>n.</lex> the seed of <bot>Wrightia antidysenteria</bot>, <ls>L.</ls><info lex="n"/>
+161099 new <s>kaliNga—bIja</s> ¦ <lex>n.</lex> the seed of <bot>Wrightia antidysenterica</bot>, <ls>L.</ls><info lex="n"/>
+;
+; 45991 : kaliNgaka : Wrightia antidysenteria : Wrightia antidysenterica : typo or print change?=
+; <L>45991<pc>262,1<k1>kaliNgaka<k2>kaliNgaka<e>2A
+161111 old ¦ the seed of <bot>Wrightia antidysenteria</bot>, <ls>Car.</ls><info lex="inh"/>
+161111 new ¦ the seed of <bot>Wrightia antidysenterica</bot>, <ls>Car.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>cardiospemum halicacabum</bot> occurs 1 times
+; new: <bot>cardiospermum halicacabum</bot> occurs 40 times
+;
+; 103064 : nagaRA : Cardiospemum Halicacabum : Cardiospermum Halicacabum : typo or print change?=
+; <L>103064<pc>525,1<k1>nagaRA<k2>nagaRA<e>1
+347142 old <s>nagaRA</s> ¦ <lex>f.</lex> <bot>Cardiospemum Halicacabum</bot>, <ls>L.</ls> (<ab>v.l.</ab> <s>nagnA</s>). <info lex="f"/>
+347142 new <s>nagaRA</s> ¦ <lex>f.</lex> <bot>Cardiospermum Halicacabum</bot>, <ls>L.</ls> (<ab>v.l.</ab> <s>nagnA</s>). <info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>gmelina arborei</bot> occurs 1 times
+; new: <bot>gmelina arborea</bot> occurs 40 times
+;
+; 263421 : hIrA : Gmelina Arborei : Gmelina Arborea : typo or print change?=
+; <L>263421<pc>1300,3<k1>hIrA<k2>hIrA<e>1B
+875837 old ¦ <bot>Gmelina Arborei</bot>, <ls>L.</ls><info lex="inh"/>
+875837 new ¦ <bot>Gmelina Arborea</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>gnielina arborea</bot> occurs 1 times
+; new: <bot>gmelina arborea</bot> occurs 40 times
+;
+; 98897 : dvitIyatriPalA : Gnielina Arborea : Gmelina Arborea : typo or print change?=
+; <L>98897<pc>506,3<k1>dvitIyatriPalA<k2>dvitI/ya—triPalA<e>3
+333201 old <s>dvitI/ya—triPalA</s> ¦ <lex>f.</lex> the 2nd set of 3 fruits (viz grape, date, and the fruit of <bot>Gnielina Arborea</bot>), <ls>L.</ls><info lex="f"/>
+333201 new <s>dvitI/ya—triPalA</s> ¦ <lex>f.</lex> the 2nd set of 3 fruits (viz grape, date, and the fruit of <bot>Gmelina Arborea</bot>), <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>ricinus commuuis</bot> occurs 1 times
+; new: <bot>ricinus communis</bot> occurs 39 times
+;
+; 209592 : vyAGrapucCa : Ricinus Commuuis : Ricinus Communis : typo or print change?=
+; <L>209592<pc>1036,2<k1>vyAGrapucCa<k2>vyAGra/—pucCa<e>3A
+699922 old ¦ the castor-oil tree, <bot>Ricinus Commuuis</bot>, <ls>Bhpr.</ls><info lex="inh"/>
+699922 new ¦ the castor-oil tree, <bot>Ricinus Communis</bot>, <ls>Bhpr.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>vitex nigundo</bot> occurs 0 times
+; new: <bot>vitex negundo</bot> occurs 37 times
+;
+; ------------------------------------------------------
+; old: <bot>semecarpus anocardium</bot> occurs 1 times
+; new: <bot>semecarpus anacardium</bot> occurs 36 times
+;
+; 173147 : rakzoGna : Semecarpus Anocardium : Semecarpus Anacardium : typo or print change?=
+; <L>173147<pc>860,2<k1>rakzoGna<k2>rakzo—Gna<e>3B
+580688 old <s>rakzo—Gna</s> ¦ <lex>m.</lex> <bot>Semecarpus Anocardium</bot>, <ls>L.</ls><info lex="m"/>
+580688 new <s>rakzo—Gna</s> ¦ <lex>m.</lex> <bot>Semecarpus Anacardium</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>acacia sirisa</bot> occurs 1 times
+; new: <bot>acacia sirissa</bot> occurs 36 times
+;
+; 43616 : kapItana : Acacia Sirisa : Acacia Sirissa : typo or print change?=
+; <L>43616<pc>251,1<k1>kapItana<k2>kapItana<e>2A
+153144 old ¦ <bot>Acacia Sirisa</bot><info lex="inh"/>
+153144 new ¦ <bot>Acacia Sirissa</bot><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>ficus glomerasa</bot> occurs 1 times
+; new: <bot>ficus glomerata</bot> occurs 35 times
+;
+; 147031 : brahmavfkza : Ficus Glomerasa : Ficus Glomerata : typo or print change?=
+; <L>147031<pc>740,1<k1>brahmavfkza<k2>brahma—vfkza<e>3A
+494779 old ¦ <bot>Butea Frondosa</bot> or <bot>Ficus Glomerasa</bot>, <ls>L.</ls><info lex="inh"/>
+494779 new ¦ <bot>Butea Frondosa</bot> or <bot>Ficus Glomerata</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>salvina cucullata</bot> occurs 1 times
+; new: <bot>salvinia cucullata</bot> occurs 35 times
+;
+; 245378 : sukarRI : Salvina Cucullata : Salvinia Cucullata : typo or print change?=
+; <L>245378<pc>1220,1<k1>sukarRI<k2>su/—karRI<e>3B
+817468 old <s>su/—karRI</s> ¦ <lex>f.</lex> <bot>Salvina Cucullata</bot>, <ls>ib.</ls><info lex="f"/>
+817468 new <s>su/—karRI</s> ¦ <lex>f.</lex> <bot>Salvinia Cucullata</bot>, <ls>ib.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>baubinia variegata</bot> occurs 1 times
+; new: <bot>bauhinia variegata</bot> occurs 34 times
+;
+; 173386 : raktakAYcana : Baubinia Variegata : Bauhinia Variegata : typo or print change?=
+; <L>173386<pc>861,2<k1>raktakAYcana<k2>rakta—kAYcana<e>3
+581490 old <s>rakta—kAYcana</s> ¦ <lex>m.</lex> <bot>Baubinia Variegata</bot>, <ls>L.</ls><info lex="m"/>
+581490 new <s>rakta—kAYcana</s> ¦ <lex>m.</lex> <bot>Bauhinia Variegata</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>bauhinea variegata</bot> occurs 1 times
+; new: <bot>bauhinia variegata</bot> occurs 34 times
+;
+; 42921 : kanaka : Bauhinea Variegata : Bauhinia Variegata : typo or print change?=
+; <L>42921<pc>248,2<k1>kanaka<k2>ka/naka<e>2B
+150980 old ¦ several other plants (<bot>Michelia Campaka</bot>, <bot>Butea Frondosa</bot>, <bot>Bauhinea Variegata</bot>, <bot>Cassia Sophora</bot>, a kind of bdellium, a kind of sandal-wood), <ls>L.</ls><info lex="inh"/>
+150980 new ¦ several other plants (<bot>Michelia Campaka</bot>, <bot>Butea Frondosa</bot>, <bot>Bauhinia Variegata</bot>, <bot>Cassia Sophora</bot>, a kind of bdellium, a kind of sandal-wood), <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>bahinia variegata</bot> occurs 1 times
+; new: <bot>bauhinia variegata</bot> occurs 34 times
+;
+; 28230 : AsPota : Bahinia Variegata : Bauhinia Variegata : typo or print change?=
+; <L>28230<pc>161,3<k1>AsPota<k2>A-sPota<e>2
+100461 old <s>A-sPota</s> ¦ <lex>m.</lex> (probably for <s>A-sPowa</s> above), <ab>N.</ab> of several plants, <ab>viz.</ab> <bot>Calotropis Gigantea</bot> (<ls>Suśr.</ls>), <bot>Bahinia Variegata</bot>, <bot>Echites Dichotoma</bot>, <ls>L.</ls><info lex="m"/>
+100461 new <s>A-sPota</s> ¦ <lex>m.</lex> (probably for <s>A-sPowa</s> above), <ab>N.</ab> of several plants, <ab>viz.</ab> <bot>Calotropis Gigantea</bot> (<ls>Suśr.</ls>), <bot>Bauhinia Variegata</bot>, <bot>Echites Dichotoma</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>ficos infectoria</bot> occurs 1 times
+; new: <bot>ficus infectoria</bot> occurs 34 times
+;
+; 250095 : suSIta : Ficos Infectoria : Ficus Infectoria : typo or print change?=
+; <L>250095<pc>1237,1<k1>suSIta<k2>su—SIta<e>3B
+832676 old <s>su—SIta</s> ¦ <lex>m.</lex> <bot>Ficos Infectoria</bot>, <ls>L.</ls><info lex="m"/>
+832676 new <s>su—SIta</s> ¦ <lex>m.</lex> <bot>Ficus Infectoria</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>tabernaemontina coronaria</bot> occurs 1 times
+; new: <bot>tabernaemontana coronaria</bot> occurs 33 times
+;
+; 123940 : piRqI : Tabernaemontina Coronaria : Tabernaemontana Coronaria : typo or print change?=
+; <L>123940<pc>626,1<k1>piRqI<k2>piRqI<e>2A
+418073 old ¦ a kind of tree, <ls>Daś.</ls> (<bot>Tabernaemontina Coronaria</bot> or a species of date tree, <ls>L.</ls>)<info lex="inh"/>
+418073 new ¦ a kind of tree, <ls>Daś.</ls> (<bot>Tabernaemontana Coronaria</bot> or a species of date tree, <ls>L.</ls>)<info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>hemionites cordifolia</bot> occurs 1 times
+; new: <bot>hemionitis cordifolia</bot> occurs 33 times
+;
+; 2954 : atiguhA : Hemionites Cordifolia : Hemionitis Cordifolia : typo or print change?=
+; <L>2954<pc>13,3<k1>atiguhA<k2>ati-guhA<e>1
+10697 old <s>ati-guhA</s> ¦ <lex>f.</lex> the plant <bot>Hemionites Cordifolia</bot>.<info lex="f"/>
+10697 new <s>ati-guhA</s> ¦ <lex>f.</lex> the plant <bot>Hemionitis Cordifolia</bot>.<info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>tabernaemontana coronaeia</bot> occurs 1 times
+; new: <bot>tabernaemontana coronaria</bot> occurs 33 times
+;
+; 124784 : pItapuzpa : Tabernaemontana Coronaeia : Tabernaemontana Coronaria : typo or print change?=
+; <L>124784<pc>629,3<k1>pItapuzpa<k2>pIta—puzpa<e>3
+420738 old <s>pIta—puzpa</s> ¦ <lex>m.</lex> ‘<ab n="yellow">y°</ab>-flowered’, <ab>N.</ab> of <ab>sev.</ab> plants (<bot>Pterospermum Acerifolium</bot> or some other species, <bot>Michelia Champaka</bot>, <bot>Tabernaemontana Coronaeia</bot>, a species of <ab n="yellow">y°</ab> <bot>Barleria</bot>), <ls>L.</ls><info lex="m"/>
+420738 new <s>pIta—puzpa</s> ¦ <lex>m.</lex> ‘<ab n="yellow">y°</ab>-flowered’, <ab>N.</ab> of <ab>sev.</ab> plants (<bot>Pterospermum Acerifolium</bot> or some other species, <bot>Michelia Champaka</bot>, <bot>Tabernaemontana Coronaria</bot>, a species of <ab n="yellow">y°</ab> <bot>Barleria</bot>), <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>tibernaemonsana coronaria</bot> occurs 1 times
+; new: <bot>tabernaemontana coronaria</bot> occurs 33 times
+;
+; 123828 : piRqapuzpa : Tibernaemonsana Coronaria : Tabernaemontana Coronaria : typo or print change?=
+; <L>123828<pc>625,3<k1>piRqapuzpa<k2>pi/Rqa—puzpa<e>3B
+417725 old ¦ of <bot>Tibernaemonsana Coronaria</bot><info lex="inh"/>
+417725 new ¦ of <bot>Tabernaemontana Coronaria</bot><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>tabemaemontana coronaria</bot> occurs 1 times
+; new: <bot>tabernaemontana coronaria</bot> occurs 33 times
+;
+; 103623 : nandyAvarta : Tabemaemontana Coronaria : Tabernaemontana Coronaria : typo or print change?=
+; <L>103623<pc>527,1<k1>nandyAvarta<k2>nandy-Avarta<e>3A
+348963 old ¦ <bot>Tabemaemontana Coronaria</bot>, <ls>L.</ls><info lex="inh"/>
+348963 new ¦ <bot>Tabernaemontana Coronaria</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>phyalis flexuosa</bot> occurs 1 times
+; new: <bot>physalis flexuosa</bot> occurs 32 times
+;
+; 211827 : SatakumBA : Phyalis Flexuosa : Physalis Flexuosa : typo or print change?=
+; <L>211827<pc>1048,3<k1>SatakumBA<k2>Sata/—kumBA<e>3B
+707159 old <s>Sata/—kumBA</s> ¦ <lex>f.</lex> <bot>Phyalis Flexuosa</bot>, <ls>W.</ls><info lex="f"/>
+707159 new <s>Sata/—kumBA</s> ¦ <lex>f.</lex> <bot>Physalis Flexuosa</bot>, <ls>W.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>syniplocos racemosa</bot> occurs 1 times
+; new: <bot>symplocos racemosa</bot> occurs 32 times
+;
+; 163484 : mArjana : Syniplocos Racemosa : Symplocos Racemosa : typo or print change?=
+; <L>163484<pc>813,1<k1>mArjana<k2>mArjana<e>2B
+548791 old <s>mArjana</s> ¦ <lex>m.</lex> <bot>Syniplocos Racemosa</bot>, <ls>L.</ls><info lex="m"/>
+548791 new <s>mArjana</s> ¦ <lex>m.</lex> <bot>Symplocos Racemosa</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>tabernamontana coronaria</bot> occurs 3 times
+; new: <bot>tabernaemontana coronaria</bot> occurs 33 times
+;
+; 89669 : daRqamAtaNga : Tabernamontana coronaria : Tabernaemontana coronaria : typo or print change?=
+; <L>89669<pc>467,1<k1>daRqamAtaNga<k2>daRqa/—mAtaNga<e>3
+302622 old <s>daRqa/—mAtaNga</s> ¦ <bot>Tabernamontana coronaria</bot>, <ls>Npr.</ls>
+302622 new <s>daRqa/—mAtaNga</s> ¦ <bot>Tabernaemontana coronaria</bot>, <ls>Npr.</ls>
+;
+; 92666 : dIna : Tabernamontana Coronaria : Tabernaemontana Coronaria : typo or print change?=
+; <L>92666<pc>480,3<k1>dIna<k2>dIna/<e>2B
+312716 old ¦ <bot>Tabernamontana Coronaria</bot>, <ls>L.</ls><info lex="inh"/>
+312716 new ¦ <bot>Tabernaemontana Coronaria</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 261784 : halarAkza : Tabernamontana Coronaria : Tabernaemontana Coronaria : typo or print change?=
+; <L>261784<pc>1293,1<k1>halarAkza<k2>hala—rAkza<e>3
+870467 old <s>hala—rAkza</s> ¦ <lex>n.</lex> <bot>Tabernamontana Coronaria</bot>, <ls>L.</ls><info lex="n"/>
+870467 new <s>hala—rAkza</s> ¦ <lex>n.</lex> <bot>Tabernaemontana Coronaria</bot>, <ls>L.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; old: <bot>azadiraehta indica</bot> occurs 2 times
+; new: <bot>azadirachta indica</bot> occurs 32 times
+;
+; 186810 : varatvac : Azadiraehta Indica : Azadirachta Indica : typo or print change?=
+; <L>186810<pc>922,2<k1>varatvac<k2>vara/—tvac<e>3
+624793 old <s>vara/—tvac</s> or <s>vara/—tvaca</s>, <lex>m.</lex> <bot>Azadiraehta Indica</bot>, <ls>L.</ls><info or="186810,varatvac;186811,varatvaca"/><info lex="m"/>
+624793 new <s>vara/—tvac</s> or <s>vara/—tvaca</s>, <lex>m.</lex> <bot>Azadirachta Indica</bot>, <ls>L.</ls><info or="186810,varatvac;186811,varatvaca"/><info lex="m"/>
+;
+; 186811 : varatvaca : Azadiraehta Indica : Azadirachta Indica : typo or print change?=
+; <L>186811<pc>922,2<k1>varatvaca<k2>vara/—tvaca<e>3
+624796 old <s>vara/—tvac</s> or <s>vara/—tvaca</s>, <lex>m.</lex> <bot>Azadiraehta Indica</bot>, <ls>L.</ls><info or="186810,varatvac;186811,varatvaca"/><info lex="m"/>
+624796 new <s>vara/—tvac</s> or <s>vara/—tvaca</s>, <lex>m.</lex> <bot>Azadirachta Indica</bot>, <ls>L.</ls><info or="186810,varatvac;186811,varatvaca"/><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>spondias maugifera</bot> occurs 1 times
+; new: <bot>spondias mangifera</bot> occurs 29 times
+;
+; 127560 : pUrAmla : Spondias Maugifera : Spondias Mangifera : typo or print change?=
+; <L>127560<pc>642,1<k1>pUrAmla<k2>pUrAmla<e>3
+429859 old <s>pUrA<srs/>mla</s> ¦ <lex>n.</lex> the fruit of <bot>Spondias Maugifera</bot>, <ls>L.</ls><info lex="n"/>
+429859 new <s>pUrA<srs/>mla</s> ¦ <lex>n.</lex> the fruit of <bot>Spondias Mangifera</bot>, <ls>L.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; old: <bot>buchanalia latifolia</bot> occurs 1 times
+; new: <bot>buchanania latifolia</bot> occurs 28 times
+;
+; 176513 : rAjaBogya : Buchanalia Latifolia : Buchanania Latifolia : typo or print change?=
+; <L>176513<pc>873,3<k1>rAjaBogya<k2>rAja—Bogya<e>3
+591562 old <s>rAja—Bogya</s> ¦ <lex>m.</lex> <bot>Buchanalia Latifolia</bot>, <ls>L.</ls><info lex="m"/>
+591562 new <s>rAja—Bogya</s> ¦ <lex>m.</lex> <bot>Buchanania Latifolia</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>buchnania latifolia</bot> occurs 1 times
+; new: <bot>buchanania latifolia</bot> occurs 28 times
+;
+; 35714 : upavawa : Buchnania Latifolia : Buchanania Latifolia : typo or print change?=
+; <L>35714<pc>206,2<k1>upavawa<k2>upa-vawa<e>1
+126561 old <s>upa-vawa</s> ¦ <lex>m.</lex> the tree <bot>Buchnania Latifolia</bot>, <ls>L.</ls><info lex="m"/>
+126561 new <s>upa-vawa</s> ¦ <lex>m.</lex> the tree <bot>Buchanania Latifolia</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>laurus cassis</bot> occurs 1 times
+; new: <bot>laurus cassia</bot> occurs 28 times
+;
+; 114971.4 : pattraka : Laurus Cassis : Laurus Cassia : typo or print change?=
+; <L>114971.4<pc>581,3<k1>pattraka<k2>pattraka<e>2B
+388006 old <s>pattraka</s> ¦ <lex>n.</lex> a leaf, (<ab>esp.</ab>) the leaf of <bot>Laurus Cassis</bot>, <ls>Bhpr.</ls><info lex="n"/>
+388006 new <s>pattraka</s> ¦ <lex>n.</lex> a leaf, (<ab>esp.</ab>) the leaf of <bot>Laurus Cassia</bot>, <ls>Bhpr.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; old: <bot>croton polyandrium</bot> occurs 1 times
+; new: <bot>croton polyandrum</bot> occurs 27 times
+;
+; 191757 : vArAhANgI : Croton Polyandrium : Croton Polyandrum : typo or print change?=
+; <L>191757<pc>944,2<k1>vArAhANgI<k2>vArAhANgI<e>3
+640707 old <s>vArAhA<srs/>NgI</s> ¦ <lex>f.</lex> <bot>Croton Polyandrium</bot> or <bot>Tiglium</bot>, <ls>L.</ls><info lex="f"/>
+640707 new <s>vArAhA<srs/>NgI</s> ¦ <lex>f.</lex> <bot>Croton Polyandrum</bot> or <bot>Tiglium</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>croton polyandeum</bot> occurs 1 times
+; new: <bot>croton polyandrum</bot> occurs 27 times
+;
+; 105150 : nAgasPowA : Croton Polyandeum : Croton Polyandrum : typo or print change?=
+; <L>105150<pc>533,3<k1>nAgasPowA<k2>nAga/—sPowA<e>3
+354112 old <s>nAga/—sPowA</s> ¦ <lex>f.</lex> <bot>Croton Polyandeum</bot> or <bot>Tiaridium Indicum</bot>, <ls>L.</ls><info lex="f"/>
+354112 new <s>nAga/—sPowA</s> ¦ <lex>f.</lex> <bot>Croton Polyandrum</bot> or <bot>Tiaridium Indicum</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>methonia superba</bot> occurs 2 times
+; new: <bot>methonica superba</bot> occurs 28 times
+;
+; 182142 : lANgalaka : Methonia Superba : Methonica Superba : typo or print change?=
+; <L>182142<pc>900,1<k1>lANgalaka<k2>lANgalaka<e>2B
+609721 old <s>lANgalaka</s> ¦ <lex>f(<s>ikA</s> or <s>akI</s>). </lex> <bot>Methonia Superba</bot> or <bot>Jussiaea Repens</bot>, <ls>L.</ls><info lex="f#akI:f#ikA"/>
+609721 new <s>lANgalaka</s> ¦ <lex>f(<s>ikA</s> or <s>akI</s>). </lex> <bot>Methonica Superba</bot> or <bot>Jussiaea Repens</bot>, <ls>L.</ls><info lex="f#akI:f#ikA"/>
+;
+; 182150 : lANgalikI : Methonia Superba : Methonica Superba : typo or print change?=
+; <L>182150<pc>900,1<k1>lANgalikI<k2>lANgalikI<e>2B
+609745 old <s>lANgalikI</s> ¦ <lex>f.</lex> <bot>Methonia Superba</bot>, <ls>L.</ls> (<s>ikA</s> <lex type="hwinfo">f.</lex> See under <s>laNgalaka</s>). <info lex="f"/>
+609745 new <s>lANgalikI</s> ¦ <lex>f.</lex> <bot>Methonica Superba</bot>, <ls>L.</ls> (<s>ikA</s> <lex type="hwinfo">f.</lex> See under <s>laNgalaka</s>). <info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>ipomcea turpethum</bot> occurs 2 times
+; new: <bot>ipomoea turpethum</bot> occurs 28 times
+;
+; 84141 : tAmrapuzpI : Ipomcea Turpethum : Ipomoea Turpethum : typo or print change?=
+; <L>84141<pc>443,2<k1>tAmrapuzpI<k2>tAmra/—puzpI<e>3B
+284442 old ¦ <bot>Ipomcea Turpethum</bot>, <ls>L.</ls><info lex="inh"/>
+284442 new ¦ <bot>Ipomoea Turpethum</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 84145 : tAmrapuzpikA : Ipomcea Turpethum : Ipomoea Turpethum : typo or print change?=
+; <L>84145<pc>443,2<k1>tAmrapuzpikA<k2>tAmra/—puzpikA<e>3B
+284454 old ¦ <bot>Ipomcea Turpethum</bot>, <ls>Npr.</ls><info lex="inh"/>
+284454 new ¦ <bot>Ipomoea Turpethum</bot>, <ls>Npr.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>croton polyandron</bot> occurs 1 times
+; new: <bot>croton polyandrum</bot> occurs 27 times
+;
+; 40143 : eraRqapattrikA : Croton Polyandron : Croton Polyandrum : typo or print change?=
+; <L>40143<pc>232,1<k1>eraRqapattrikA<k2>eraRqa—pattrikA<e>3B
+141690 old <s>eraRqa—pattrikA</s> ¦ <lex>f.</lex> <bot>Croton Polyandron</bot>, <ls>L.</ls><info lex="f"/>
+141690 new <s>eraRqa—pattrikA</s> ¦ <lex>f.</lex> <bot>Croton Polyandrum</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>tragia involacrata</bot> occurs 1 times
+; new: <bot>tragia involucrata</bot> occurs 26 times
+;
+; 16720 : aliparRI : Tragia Involacrata : Tragia Involucrata : typo or print change?=
+; <L>16720<pc>95,1<k1>aliparRI<k2>ali—parRI<e>3
+60588 old <s>ali—parRI</s> ¦ <lex>f.</lex> the plant <bot>Tragia Involacrata</bot> Lin, <ls>L.</ls><info lex="f"/>
+60588 new <s>ali—parRI</s> ¦ <lex>f.</lex> the plant <bot>Tragia Involucrata</bot> Lin, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>carpopogan pruriens</bot> occurs 1 times
+; new: <bot>carpopogon pruriens</bot> occurs 26 times
+;
+; 250850 : sUkarapAdikA : Carpopogan Pruriens : Carpopogon Pruriens : typo or print change?=
+; <L>250850<pc>1240,2<k1>sUkarapAdikA<k2>sU-kara/—pAdikA<e>3
+835160 old <s>sU-kara/—pAdikA</s> ¦ <lex>f.</lex> a plant resembling <bot>Carpopogan Pruriens</bot>, <ls>L.</ls><info lex="f"/>
+835160 new <s>sU-kara/—pAdikA</s> ¦ <lex>f.</lex> a plant resembling <bot>Carpopogon Pruriens</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>scindapus officinalis</bot> occurs 1 times
+; new: <bot>scindapsus officinalis</bot> occurs 26 times
+;
+; 43466 : kapipippalI : Scindapus Officinalis : Scindapsus Officinalis : typo or print change?=
+; <L>43466<pc>250,3<k1>kapipippalI<k2>kapi/—pippalI<e>3
+152688 old <s>kapi/—pippalI</s> ¦ <lex>f.</lex> <bot>Scindapus Officinalis</bot>, <ls>L.</ls><info lex="f"/>
+152688 new <s>kapi/—pippalI</s> ¦ <lex>f.</lex> <bot>Scindapsus Officinalis</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>poederia foetida</bot> occurs 1 times
+; new: <bot>paederia foetida</bot> occurs 25 times
+;
+; 10363 : apehivAtA : Poederia Foetida : Paederia Foetida : typo or print change?=
+; <L>10363<pc>56,2<k1>apehivAtA<k2>apehi—vAtA<e>3
+38430 old <s>ape<srs/>hi—vAtA</s> ¦ (<ab>scil.</ab> <s>latA</s>) <lex>f.</lex> ‘useful in expelling wind’, the plant <bot>Poederia Foetida</bot>, <ls>Suśr.</ls><info lex="f"/>
+38430 new <s>ape<srs/>hi—vAtA</s> ¦ (<ab>scil.</ab> <s>latA</s>) <lex>f.</lex> ‘useful in expelling wind’, the plant <bot>Paederia Foetida</bot>, <ls>Suśr.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>embelis ribes</bot> occurs 1 times
+; new: <bot>embelia ribes</bot> occurs 25 times
+;
+; 166817 : mfgagAminI : Embelis Ribes : Embelia Ribes : typo or print change?=
+; <L>166817<pc>828,2<k1>mfgagAminI<k2>mfga/—gAminI<e>3
+559613 old <s>mfga/—gAminI</s> ¦ <lex>f.</lex> <bot>Embelis Ribes</bot>, <ls>L.</ls><info lex="f"/>
+559613 new <s>mfga/—gAminI</s> ¦ <lex>f.</lex> <bot>Embelia Ribes</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>alangium hexapetaluni</bot> occurs 1 times
+; new: <bot>alangium hexapetalum</bot> occurs 25 times
+;
+; 124828 : pItasAra : Alangium Hexapetaluni : Alangium Hexapetalum : typo or print change?=
+; <L>124828<pc>630,1<k1>pItasAra<k2>pIta—sAra<e>3A
+420879 old ¦ <bot>Alangium Hexapetaluni</bot>, <ls>L.</ls><info lex="inh"/>
+420879 new ¦ <bot>Alangium Hexapetalum</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>phaselus trilobus</bot> occurs 1 times
+; new: <bot>phaseolus trilobus</bot> occurs 24 times
+;
+; 188231 : valgupattra : Phaselus Trilobus : Phaseolus Trilobus : typo or print change?=
+; <L>188231<pc>928,2<k1>valgupattra<k2>valgu/—pattra<e>3
+629287 old <s>valgu/—pattra</s> ¦ <lex>m.</lex> <bot>Phaselus Trilobus</bot>, <ls>L.</ls><info lex="m"/>
+629287 new <s>valgu/—pattra</s> ¦ <lex>m.</lex> <bot>Phaseolus Trilobus</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>venonia anthelminthica</bot> occurs 2 times
+; new: <bot>vernonia anthelminthica</bot> occurs 25 times
+;
+; 87456 : trayI : Venonia anthelminthica : Vernonia anthelminthica : typo or print change?=
+; <L>87456<pc>457,2<k1>trayI<k2>trayI/<e>1B
+295157 old ¦ <bot>Venonia anthelminthica</bot>, <ls>L.</ls><info lex="inh"/>
+295157 new ¦ <bot>Vernonia anthelminthica</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 244242 : sitAvarI : Venonia Anthelminthica : Vernonia Anthelminthica : typo or print change?=
+; <L>244242<pc>1214,3<k1>sitAvarI<k2>sitAvarI<e>3B
+813794 old <s>sitA<srs/>varI</s> ¦ <lex>f.</lex> <bot>Venonia Anthelminthica</bot>, <ls>L.</ls><info lex="f"/>
+813794 new <s>sitA<srs/>varI</s> ¦ <lex>f.</lex> <bot>Vernonia Anthelminthica</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>morunga</bot> occurs 1 times
+; new: <bot>moringa</bot> occurs 24 times
+;
+; 179490 : revawa : Morunga : Moringa : typo or print change?=
+; <L>179490<pc>887,3<k1>revawa<k2>revawa<e>2A
+601340 old ¦ oil of the <bot>Morunga</bot> tree<info lex="inh"/>
+601340 new ¦ oil of the <bot>Moringa</bot> tree<info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>marsilea quadrifulia</bot> occurs 1 times
+; new: <bot>marsilea quadrifolia</bot> occurs 23 times
+;
+; 216915 : Sitivara : Marsilea Quadrifulia : Marsilea Quadrifolia : typo or print change?=
+; <L>216915<pc>1071,3<k1>Sitivara<k2>Siti—vara<e>3
+723267 old <s>Siti—vara</s> ¦ <lex>m.</lex> <bot>Marsilea Quadrifulia</bot>, <ls>Bhpr.</ls><info lex="m"/>
+723267 new <s>Siti—vara</s> ¦ <lex>m.</lex> <bot>Marsilea Quadrifolia</bot>, <ls>Bhpr.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>desmodiuni gangeticum</bot> occurs 1 times
+; new: <bot>desmodium gangeticum</bot> occurs 23 times
+;
+; 107417 : niScalA : Desmodiuni Gangeticum : Desmodium Gangeticum : typo or print change?=
+; <L>107417<pc>542,3<k1>niScalA<k2>niS—calA<e>3B
+361636 old ¦ <bot>Desmodiuni Gangeticum</bot>, <ls>L.</ls><info lex="inh"/>
+361636 new ¦ <bot>Desmodium Gangeticum</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>tiaridiusn indicum</bot> occurs 1 times
+; new: <bot>tiaridium indicum</bot> occurs 23 times
+;
+; 148695 : BaraRyAhvA : Tiaridiusn Indicum : Tiaridium Indicum : typo or print change?=
+; <L>148695<pc>747,2<k1>BaraRyAhvA<k2>BaraRy-AhvA<e>3
+500423 old <s>BaraRy-AhvA</s> ¦ <lex>f.</lex> <bot>Tiaridiusn Indicum</bot>, <ls>L.</ls><info lex="f"/>
+500423 new <s>BaraRy-AhvA</s> ¦ <lex>f.</lex> <bot>Tiaridium Indicum</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>marsilia quadrifolia</bot> occurs 2 times
+; new: <bot>marsilea quadrifolia</bot> occurs 23 times
+;
+; 95539.01 : devA : Marsilia Quadrifolia : Marsilea Quadrifolia : typo or print change?=
+; <L>95539.01<pc>492,3<k1>devA<k2>devA/<e>1B
+322101 old <s>devA/</s> ¦ <lex>f.</lex> <bot>Hibiscus Mutabilis</bot> or <bot>Marsilia Quadrifolia</bot><info lex="f"/>
+322101 new <s>devA/</s> ¦ <lex>f.</lex> <bot>Hibiscus Mutabilis</bot> or <bot>Marsilea Quadrifolia</bot><info lex="f"/>
+;
+; 246660 : sudIrGaGarmA : Marsilia Quadrifolia : Marsilea Quadrifolia : typo or print change?=
+; <L>246660<pc>1224,3<k1>sudIrGaGarmA<k2>su—dIrGa—GarmA<e>4
+821628 old <s>su—dIrGa—GarmA</s> ¦ <lex>f.</lex> the plant <bot>Marsilia Quadrifolia</bot>, <ls>L.</ls><info lex="f"/>
+821628 new <s>su—dIrGa—GarmA</s> ¦ <lex>f.</lex> the plant <bot>Marsilea Quadrifolia</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>nardostschys jatamansi</bot> occurs 1 times
+; new: <bot>nardostachys jatamansi</bot> occurs 21 times
+;
+; 124492 : piSitA : Nardostschys Jatamansi : Nardostachys Jatamansi : typo or print change?=
+; <L>124492<pc>628,2<k1>piSitA<k2>piSitA<e>2B
+419815 old <s>piSitA</s> ¦ <lex>f.</lex> <bot>Nardostschys Jatamansi</bot>, <ls>L.</ls><info lex="f"/>
+419815 new <s>piSitA</s> ¦ <lex>f.</lex> <bot>Nardostachys Jatamansi</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>nardottachys jatamansi</bot> occurs 1 times
+; new: <bot>nardostachys jatamansi</bot> occurs 21 times
+;
+; 262777 : hiMsrA : Nardottachys Jatamansi : Nardostachys Jatamansi : typo or print change?=
+; <L>262777<pc>1298,1<k1>hiMsrA<k2>hiMsrA/<e>2B
+873656 old ¦ <ab>N.</ab> of various plants (<ab>accord.</ab> to <ls>L.</ls>, <bot>Nardottachys Jatamansi</bot>, <bot>Coix Barbata</bot> = <s>kAkA<srs/>danI</s> and <s>elA<srs/>vali</s>), <ls>Suśr.</ls><info lex="inh"/>
+873656 new ¦ <ab>N.</ab> of various plants (<ab>accord.</ab> to <ls>L.</ls>, <bot>Nardostachys Jatamansi</bot>, <bot>Coix Barbata</bot> = <s>kAkA<srs/>danI</s> and <s>elA<srs/>vali</s>), <ls>Suśr.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>euphoebia antiquorum</bot> occurs 1 times
+; new: <bot>euphorbia antiquorum</bot> occurs 21 times
+;
+; 253434 : sODa : Euphoebia Antiquorum : Euphorbia Antiquorum : typo or print change?=
+; <L>253434<pc>1252,3<k1>sODa<k2>sODa<e>1A
+843415 old ¦ made of or coming from <bot>Euphoebia Antiquorum</bot>, <ls>Suśr.</ls>; <ls>Pañcar.</ls><info lex="inh"/>
+843415 new ¦ made of or coming from <bot>Euphorbia Antiquorum</bot>, <ls>Suśr.</ls>; <ls>Pañcar.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>solanum melougena</bot> occurs 1 times
+; new: <bot>solanum melongena</bot> occurs 21 times
+;
+; 262403 : hastivAtiNgaRa : Solanum Melougena : Solanum Melongena : typo or print change?=
+; <L>262403<pc>1295,3<k1>hastivAtiNgaRa<k2>hasti—vAtiNgaRa<e>3
+872440 old <s>hasti—vAtiNgaRa</s> ¦ <lex>m.</lex> <bot>Solanum Melougena</bot>, <ls>L.</ls><info lex="m"/>
+872440 new <s>hasti—vAtiNgaRa</s> ¦ <lex>m.</lex> <bot>Solanum Melongena</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>hyperanthera moriaga</bot> occurs 1 times
+; new: <bot>hyperanthera moringa</bot> occurs 21 times
+;
+; 97603 : draviRanASana : Hyperanthera Moriaga : Hyperanthera Moringa : typo or print change?=
+; <L>97603<pc>501,1<k1>draviRanASana<k2>draviRa—nASana<e>3
+328716 old <s>draviRa—nASana</s> ¦ <lex>m.</lex>, ‘destroying vigour’, <bot>Hyperanthera Moriaga</bot>, <ls>L.</ls><info lex="m"/>
+328716 new <s>draviRa—nASana</s> ¦ <lex>m.</lex>, ‘destroying vigour’, <bot>Hyperanthera Moringa</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>hyperanthera morings</bot> occurs 1 times
+; new: <bot>hyperanthera moringa</bot> occurs 21 times
+;
+; 164932 : muKamoda : Hyperanthera Morings : Hyperanthera Moringa : typo or print change?=
+; <L>164932<pc>820,1<k1>muKamoda<k2>muKa—moda<e>3
+553553 old <s>muKa—moda</s> ¦ <lex>m.</lex> <bot>Hyperanthera Morings</bot>, <ls>L.</ls><info lex="m"/>
+553553 new <s>muKa—moda</s> ¦ <lex>m.</lex> <bot>Hyperanthera Moringa</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>hyperanthera morunga</bot> occurs 1 times
+; new: <bot>hyperanthera moringa</bot> occurs 21 times
+;
+; 248015 : suBaYjana : Hyperanthera Morunga : Hyperanthera Moringa : typo or print change?=
+; <L>248015<pc>1229,3<k1>suBaYjana<k2>su—BaYjana<e>3
+825958 old <s>su—BaYjana</s> ¦ <lex>m.</lex> a red species of <bot>Hyperanthera Morunga</bot>, <ls>L.</ls><info lex="m"/>
+825958 new <s>su—BaYjana</s> ¦ <lex>m.</lex> a red species of <bot>Hyperanthera Moringa</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>vatika robusta</bot> occurs 2 times
+; new: <bot>vatica robusta</bot> occurs 22 times
+;
+; 53456 : kuSika : Vatika Robusta : Vatica Robusta : typo or print change?=
+; <L>53456<pc>297,2<k1>kuSika<k2>kuSika/<e>1B
+184930 old ¦ the plant <bot>Vatika Robusta</bot>, <ls>L.</ls><info lex="inh"/>
+184930 new ¦ the plant <bot>Vatica Robusta</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 57478 : kOSika : Vatika robusta : Vatica robusta : typo or print change?=
+; <L>57478<pc>318,1<k1>kOSika<k2>kOSika/<e>1B
+197792 old ¦ <bot>Vatika robusta</bot>, <ls>L.</ls><info lex="inh"/>
+197792 new ¦ <bot>Vatica robusta</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>uraria lagopedioides</bot> occurs 1 times
+; new: <bot>uraria lagopodioides</bot> occurs 20 times
+;
+; 201108.20 : viSvadevA : Uraria Lagopedioides : Uraria Lagopodioides : typo or print change?=
+; <L>201108.20<pc>993,1<k1>viSvadevA<k2>vi/Sva—devA<e>3B
+671871 old <s>vi/Sva—devA</s> ¦ <lex>f.</lex> <bot>Uraria Lagopedioides</bot>, <ls>Suśr.</ls><info lex="f"/>
+671871 new <s>vi/Sva—devA</s> ¦ <lex>f.</lex> <bot>Uraria Lagopodioides</bot>, <ls>Suśr.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>cassis fistula</bot> occurs 1 times
+; new: <bot>cassia fistula</bot> occurs 20 times
+;
+; 130494 : pragraha : Cassis Fistula : Cassia Fistula : typo or print change?=
+; <L>130494<pc>656,2<k1>pragraha<k2>pra-graha<e>3A
+439563 old ¦ a species of plant, <ls>Car.</ls> (<bot>Cassis Fistula</bot>, <ls>L.</ls>)<info lex="inh"/>
+439563 new ¦ a species of plant, <ls>Car.</ls> (<bot>Cassia Fistula</bot>, <ls>L.</ls>)<info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>baeleria</bot> occurs 1 times
+; new: <bot>barleria</bot> occurs 20 times
+;
+; 240348 : sahAcara : Baeleria : Barleria : typo or print change?=
+; <L>240348<pc>1194,3<k1>sahAcara<k2>sahA-cara<e>3
+801268 old <s>sahA-cara</s> ¦ <lex>m.</lex> (for <s>saha-c°</s>) a <bot>Baeleria</bot> with yellow flowers, <ls>Car.</ls><info lex="m"/>
+801268 new <s>sahA-cara</s> ¦ <lex>m.</lex> (for <s>saha-c°</s>) a <bot>Barleria</bot> with yellow flowers, <ls>Car.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>rumex vericarius</bot> occurs 1 times
+; new: <bot>rumex vesicarius</bot> occurs 19 times
+;
+; 141918 : PalAmla : Rumex Vericarius : Rumex Vesicarius : typo or print change?=
+; <L>141918<pc>717,2<k1>PalAmla<k2>PalAmla<e>3
+478066 old <s>PalA<srs/>mla</s> ¦ <lex>m.</lex> <bot>Rumex Vericarius</bot>, <ls>L.</ls><info lex="m"/>
+478066 new <s>PalA<srs/>mla</s> ¦ <lex>m.</lex> <bot>Rumex Vesicarius</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>andropogon acicuilatus</bot> occurs 1 times
+; new: <bot>andropogon aciculatus</bot> occurs 19 times
+;
+; 154302 : maNgalyA : Andropogon Acicuilatus : Andropogon Aciculatus : typo or print change?=
+; <L>154302<pc>773,1<k1>maNgalyA<k2>maNgalyA<e>2B
+518558 old ¦ <bot>Andropogon Acicuilatus</bot><info lex="inh"/>
+518558 new ¦ <bot>Andropogon Aciculatus</bot><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>artemesia indica</bot> occurs 1 times
+; new: <bot>artemisia indica</bot> occurs 19 times
+;
+; 121605 : pARqurAga : Artemesia Indica : Artemisia Indica : typo or print change?=
+; <L>121605<pc>616,1<k1>pARqurAga<k2>pARqu/—rAga<e>3A
+410588 old ¦ <bot>Artemesia Indica</bot>, <ls>L.</ls><info lex="inh"/>
+410588 new ¦ <bot>Artemisia Indica</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>boerhavia procunibens</bot> occurs 2 times
+; new: <bot>boerhavia procumbens</bot> occurs 20 times
+;
+; 224706 : SvetamUla : Boerhavia Procunibens : Boerhavia Procumbens : typo or print change?=
+; <L>224706<pc>1107,1<k1>SvetamUla<k2>Sveta/—mUla<e>3
+748118 old <s>Sveta/—mUla</s>, <lex>m.</lex> (<ls>Suśr.</ls>) or <s>Sveta/—mU°lA</s>, <lex>f.</lex> (<ls>Npr.</ls>) <bot>Boerhavia Procunibens</bot>.<info or="224706,SvetamUla;224707,SvetamUlA"/><info lex="m"/>
+748118 new <s>Sveta/—mUla</s>, <lex>m.</lex> (<ls>Suśr.</ls>) or <s>Sveta/—mU°lA</s>, <lex>f.</lex> (<ls>Npr.</ls>) <bot>Boerhavia Procumbens</bot>.<info or="224706,SvetamUla;224707,SvetamUlA"/><info lex="m"/>
+;
+; 224707 : SvetamUlA : Boerhavia Procunibens : Boerhavia Procumbens : typo or print change?=
+; <L>224707<pc>1107,1<k1>SvetamUlA<k2>Sveta/—mUlA<e>3
+748121 old <s>Sveta/—mUla</s>, <lex>m.</lex> (<ls>Suśr.</ls>) or <s>Sveta/—mU°lA</s>, <lex>f.</lex> (<ls>Npr.</ls>) <bot>Boerhavia Procunibens</bot>.<info or="224706,SvetamUla;224707,SvetamUlA"/><info lex="m"/>
+748121 new <s>Sveta/—mUla</s>, <lex>m.</lex> (<ls>Suśr.</ls>) or <s>Sveta/—mU°lA</s>, <lex>f.</lex> (<ls>Npr.</ls>) <bot>Boerhavia Procumbens</bot>.<info or="224706,SvetamUla;224707,SvetamUlA"/><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>pierospermum acerifolium</bot> occurs 1 times
+; new: <bot>pterospermum acerifolium</bot> occurs 18 times
+;
+; 97934 : drumotpala : Pierospermum Acerifolium : Pterospermum Acerifolium : typo or print change?=
+; <L>97934<pc>502,2<k1>drumotpala<k2>drumotpala<e>3
+329813 old <s>drumo<srs/>tpala</s> ¦ <lex>m.</lex> <bot>Pierospermum Acerifolium</bot>, <ls>L.</ls><info lex="m"/>
+329813 new <s>drumo<srs/>tpala</s> ¦ <lex>m.</lex> <bot>Pterospermum Acerifolium</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>polanisla icosandra</bot> occurs 1 times
+; new: <bot>polanisia icosandra</bot> occurs 18 times
+;
+; 251640 : sUryalatA : Polanisla Icosandra : Polanisia Icosandra : typo or print change?=
+; <L>251640<pc>1243,3<k1>sUryalatA<k2>sU/rya—latA<e>3
+837642 old <s>sU/rya—latA</s> ¦ <lex>f.</lex> <bot>Polanisla Icosandra</bot>, <ls>L.</ls><info lex="f"/>
+837642 new <s>sU/rya—latA</s> ¦ <lex>f.</lex> <bot>Polanisia Icosandra</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>scirpus kysor</bot> occurs 1 times
+; new: <bot>scirpus kysoor</bot> occurs 18 times
+;
+; 111544 : nIlapattra : Scirpus Kysor : Scirpus Kysoor : typo or print change?=
+; <L>111544<pc>566,2<k1>nIlapattra<k2>nI/la—pattra<e>3
+376116 old <s>nI/la—pattra</s> ¦ <lex>m.</lex> ‘dark-leaved’, <bot>Scirpus Kysor</bot>, <ls>L.</ls><info lex="m"/>
+376116 new <s>nI/la—pattra</s> ¦ <lex>m.</lex> ‘dark-leaved’, <bot>Scirpus Kysoor</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>cedrena toona</bot> occurs 1 times
+; new: <bot>cedrela toona</bot> occurs 17 times
+;
+; 159294 : mahAkacCa : Cedrena Toona : Cedrela Toona : typo or print change?=
+; <L>159294<pc>794,3<k1>mahAkacCa<k2>mahA/—kacCa<e>3
+534794 old <s>mahA/—kacCa</s> ¦ <lex>m.</lex> a high <bot>Cedrena Toona</bot>, <ls>MBh.</ls><info lex="m"/>
+534794 new <s>mahA/—kacCa</s> ¦ <lex>m.</lex> a high <bot>Cedrela Toona</bot>, <ls>MBh.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>eleocarpus ganitrus</bot> occurs 1 times
+; new: <bot>elaeocarpus ganitrus</bot> occurs 16 times
+;
+; 458 : akza : Eleocarpus Ganitrus : Elaeocarpus Ganitrus : typo or print change?=
+; <L>458<pc>3,1<k1>akza<k2>akza/<e>2A
+1672 old ¦ the <bot>Eleocarpus Ganitrus</bot>, producing that seed<info lex="inh"/>
+1672 new ¦ the <bot>Elaeocarpus Ganitrus</bot>, producing that seed<info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>emblica offcinalis</bot> occurs 1 times
+; new: <bot>emblica officinalis</bot> occurs 16 times
+;
+; 217935 : SivA : Emblica Offcinalis : Emblica Officinalis : typo or print change?=
+; <L>217935<pc>1076,1<k1>SivA<k2>SivA<e>2A
+726625 old ¦ <ab>N.</ab> of various plants (<ab>accord.</ab> to <ls>L.</ls> ‘<bot>Prosopis Spicigera</bot> or <bot>Mimosa Suma</bot>; <bot>Terminalia Chebula</bot> or <bot>Citrina</bot>, <bot>Emblica Offcinalis</bot>; <bot>Jasminum Auriculatum</bot>; turmeric; <s1 slp1="dUrvA">Dūrvā</s1> grass &c.’)<info lex="inh"/>
+726625 new ¦ <ab>N.</ab> of various plants (<ab>accord.</ab> to <ls>L.</ls> ‘<bot>Prosopis Spicigera</bot> or <bot>Mimosa Suma</bot>; <bot>Terminalia Chebula</bot> or <bot>Citrina</bot>, <bot>Emblica Officinalis</bot>; <bot>Jasminum Auriculatum</bot>; turmeric; <s1 slp1="dUrvA">Dūrvā</s1> grass &c.’)<info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>sacclsarum sara</bot> occurs 1 times
+; new: <bot>saccharum sara</bot> occurs 16 times
+;
+; 213464 : SarakARqa : Sacclsarum Sara : Saccharum Sara : typo or print change?=
+; <L>213464<pc>1056,2<k1>SarakARqa<k2>Sara/—kARqa<e>3
+712546 old <s>Sara/—kARqa</s> ¦ <lex>m.</lex> the stem of the <bot>Sacclsarum Sara</bot>, <ls>Suśr.</ls><info lex="m"/>
+712546 new <s>Sara/—kARqa</s> ¦ <lex>m.</lex> the stem of the <bot>Saccharum Sara</bot>, <ls>Suśr.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>vangueriya spinosa</bot> occurs 1 times
+; new: <bot>vangueria spinosa</bot> occurs 15 times
+;
+; 123778 : piRqa : Vangueriya Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>123778<pc>625,2<k1>piRqa<k2>pi/Rqa<e>2B
+417572 old ¦ <bot>Vangueriya Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+417572 new ¦ <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>vangtieria spinosa</bot> occurs 1 times
+; new: <bot>vangueria spinosa</bot> occurs 15 times
+;
+; 123960 : piRqItaka : Vangtieria Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>123960<pc>626,1<k1>piRqItaka<k2>piRqItaka<e>2
+418134 old <s>piRqItaka</s> ¦ <lex>m.</lex> <bot>Vangtieria Spinosa</bot> (n. the fruit), <ls>Bhpr.</ls><info lex="m"/>
+418134 new <s>piRqItaka</s> ¦ <lex>m.</lex> <bot>Vangueria Spinosa</bot> (n. the fruit), <ls>Bhpr.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>andropogon schonanthus</bot> occurs 1 times
+; new: <bot>andropogon schoenanthus</bot> occurs 14 times
+;
+; 248675 : surasa : Andropogon Schonanthus : Andropogon Schoenanthus : typo or print change?=
+; <L>248675<pc>1232,2<k1>surasa<k2>su—rasa<e>3B
+828293 old ¦ <bot>Andropogon Schonanthus</bot>, <ls>L.</ls><info lex="inh"/>
+828293 new ¦ <bot>Andropogon Schoenanthus</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>audropogon schoenanthus</bot> occurs 1 times
+; new: <bot>andropogon schoenanthus</bot> occurs 14 times
+;
+; 151769 : BUstfRa : Audropogon Schoenanthus : Andropogon Schoenanthus : typo or print change?=
+; <L>151769<pc>761,3<k1>BUstfRa<k2>BU/—s-tfRa<h>a<e>3
+510480 old <s>BU/—s-tfRa</s> <hom>a</hom> ¦ <lex>m.</lex> <bot>Audropogon Schoenanthus</bot>, <ls>Mn.</ls>; <ls>Hariv.</ls>; <ls>Suśr.</ls>; <ls>Vāgbh.</ls> (<ab>cf.</ab> <s>BU-tfRa</s>). <info lex="m"/>
+510480 new <s>BU/—s-tfRa</s> <hom>a</hom> ¦ <lex>m.</lex> <bot>Andropogon Schoenanthus</bot>, <ls>Mn.</ls>; <ls>Hariv.</ls>; <ls>Suśr.</ls>; <ls>Vāgbh.</ls> (<ab>cf.</ab> <s>BU-tfRa</s>). <info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>colosanthes indica</bot> occurs 3 times
+; new: <bot>calosanthes indica</bot> occurs 16 times
+;
+; 93197 : dIrGavfnta : Colosanthes Indica : Calosanthes Indica : typo or print change?=
+; <L>93197<pc>482,2<k1>dIrGavfnta<k2>dIrGa/—vfnta<e>3
+314383 old <s>dIrGa/—vfnta</s> ¦ <lex>m.</lex> ‘<ab n="long">l°</ab>-stalked’, <bot>Colosanthes Indica</bot><info lex="m"/>
+314383 new <s>dIrGa/—vfnta</s> ¦ <lex>m.</lex> ‘<ab n="long">l°</ab>-stalked’, <bot>Calosanthes Indica</bot><info lex="m"/>
+;
+; 93199 : dIrGavfntaka : Colosanthes Indica : Calosanthes Indica : typo or print change?=
+; <L>93199<pc>482,2<k1>dIrGavfntaka<k2>dIrGa/—vfntaka<e>3
+314389 old <s>dIrGa/—vfntaka</s> ¦ <lex>m.</lex> <bot>Colosanthes Indica</bot> and a variety of it, <ls>L.</ls><info lex="m"/>
+314389 new <s>dIrGa/—vfntaka</s> ¦ <lex>m.</lex> <bot>Calosanthes Indica</bot> and a variety of it, <ls>L.</ls><info lex="m"/>
+;
+; 103179 : nawa : Colosanthes Indica : Calosanthes Indica : typo or print change?=
+; <L>103179<pc>525,2<k1>nawa<k2>nawa<e>2A
+347522 old ¦ <bot>Colosanthes Indica</bot>, <ls>L.</ls><info lex="inh"/>
+347522 new ¦ <bot>Calosanthes Indica</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>barringtonia acutaugula</bot> occurs 1 times
+; new: <bot>barringtonia acutangula</bot> occurs 14 times
+;
+; 108238 : nicUla : Barringtonia Acutaugula : Barringtonia Acutangula : typo or print change?=
+; <L>108238<pc>546,3<k1>nicUla<k2>ni-cUla<e>3A
+364433 old ¦ <bot>Barringtonia Acutaugula</bot>, <ls>L.</ls><info lex="inh"/>
+364433 new ¦ <bot>Barringtonia Acutangula</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>jaiminum auriculatum</bot> occurs 1 times
+; new: <bot>jasminum auriculatum</bot> occurs 13 times
+;
+; 14439 : ambazWA : Jaiminum Auriculatum : Jasminum Auriculatum : typo or print change?=
+; <L>14439<pc>83,2<k1>ambazWA<k2>amba-zWA<e>1B
+52587 old <s>amba-zWA</s> ¦ <lex>f.</lex> <bot>Jaiminum Auriculatum</bot>, <ls>L.</ls><info lex="f"/>
+52587 new <s>amba-zWA</s> ¦ <lex>f.</lex> <bot>Jasminum Auriculatum</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>sesbana aegyptiaca</bot> occurs 1 times
+; new: <bot>sesbania aegyptiaca</bot> occurs 13 times
+;
+; 261416 : haritA : Sesbana Aegyptiaca : Sesbania Aegyptiaca : typo or print change?=
+; <L>261416<pc>1291,2<k1>haritA<k2>ha/ritA<e>2B
+869332 old ¦ <bot>Sesbana Aegyptiaca</bot>, <ls>L.</ls><info lex="inh"/>
+869332 new ¦ <bot>Sesbania Aegyptiaca</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>attocarpus integrifolia</bot> occurs 1 times
+; new: <bot>artocarpus integrifolia</bot> occurs 12 times
+;
+; 165730 : murajaPala : Attocarpus Integrifolia : Artocarpus Integrifolia : typo or print change?=
+; <L>165730<pc>823,2<k1>murajaPala<k2>muraja—Pala<e>3
+556123 old <s>muraja—Pala</s> ¦ <lex>m.</lex> <bot>Attocarpus Integrifolia</bot>, <ls>L.</ls><info lex="m"/>
+556123 new <s>muraja—Pala</s> ¦ <lex>m.</lex> <bot>Artocarpus Integrifolia</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>momordica monidelpha</bot> occurs 1 times
+; new: <bot>momordica monadelpha</bot> occurs 12 times
+;
+; 124995 : pIluparRI : Momordica Monidelpha : Momordica Monadelpha : typo or print change?=
+; <L>124995<pc>630,2<k1>pIluparRI<k2>pIlu—parRI<e>3A
+421390 old ¦ <bot>Momordica Monidelpha</bot>, <ls>L.</ls><info lex="inh"/>
+421390 new ¦ <bot>Momordica Monadelpha</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>melia bukajun</bot> occurs 1 times
+; new: <bot>melia bukayun</bot> occurs 12 times
+;
+; 159892 : mahAnimba : Melia Bukajun : Melia Bukayun : typo or print change?=
+; <L>159892<pc>797,1<k1>mahAnimba<k2>mahA/—nimba<e>3
+536879 old <s>mahA/—nimba</s> ¦ <lex>m.</lex> <bot>Melia Bukajun</bot>, <ls>Suśr.</ls><info lex="m"/>
+536879 new <s>mahA/—nimba</s> ¦ <lex>m.</lex> <bot>Melia Bukayun</bot>, <ls>Suśr.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>diospyrus tomentosa</bot> occurs 1 times
+; new: <bot>diospyros tomentosa</bot> occurs 11 times
+;
+; 47092 : kAkasPUrja : Diospyrus tomentosa : Diospyros tomentosa : typo or print change?=
+; <L>47092<pc>267,2<k1>kAkasPUrja<k2>kAka—sPUrja<e>3
+164586 old <s>kAka—sPUrja</s> ¦ <lex>m.</lex> the plant <bot>Diospyrus tomentosa</bot>, <ls>L.</ls><info lex="m"/>
+164586 new <s>kAka—sPUrja</s> ¦ <lex>m.</lex> the plant <bot>Diospyros tomentosa</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>jasminium zambac</bot> occurs 1 times
+; new: <bot>jasminum zambac</bot> occurs 10 times
+;
+; 164802 : mukura : Jasminium Zambac : Jasminum Zambac : typo or print change?=
+; <L>164802<pc>819,2<k1>mukura<k2>mukura<e>1A
+553151 old ¦ <bot>Jasminium Zambac</bot>, <ls>L.</ls><info lex="inh"/>
+553151 new ¦ <bot>Jasminum Zambac</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>sereatula anthelminthica</bot> occurs 2 times
+; new: <bot>serratula anthelminthica</bot> occurs 11 times
+;
+; 127505 : pUtiPalA : Sereatula Anthelminthica : Serratula Anthelminthica : typo or print change?=
+; <L>127505<pc>641,3<k1>pUtiPalA<k2>pU/ti—PalA<e>3
+429691 old <s>pU/ti—PalA</s> or <s>pU/ti—Pa°lI</s>, <lex>f.</lex> ‘bearing ill-smelling fruit’, <bot>Sereatula Anthelminthica</bot>, <ls>L.</ls><info or="127505,pUtiPalA;127506,pUtiPalI"/><info lex="f"/>
+429691 new <s>pU/ti—PalA</s> or <s>pU/ti—Pa°lI</s>, <lex>f.</lex> ‘bearing ill-smelling fruit’, <bot>Serratula Anthelminthica</bot>, <ls>L.</ls><info or="127505,pUtiPalA;127506,pUtiPalI"/><info lex="f"/>
+;
+; 127506 : pUtiPalI : Sereatula Anthelminthica : Serratula Anthelminthica : typo or print change?=
+; <L>127506<pc>641,3<k1>pUtiPalI<k2>pU/ti—PalI<e>3
+429694 old <s>pU/ti—PalA</s> or <s>pU/ti—Pa°lI</s>, <lex>f.</lex> ‘bearing ill-smelling fruit’, <bot>Sereatula Anthelminthica</bot>, <ls>L.</ls><info or="127505,pUtiPalA;127506,pUtiPalI"/><info lex="f"/>
+429694 new <s>pU/ti—PalA</s> or <s>pU/ti—Pa°lI</s>, <lex>f.</lex> ‘bearing ill-smelling fruit’, <bot>Serratula Anthelminthica</bot>, <ls>L.</ls><info or="127505,pUtiPalA;127506,pUtiPalI"/><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>bingnonia</bot> occurs 1 times
+; new: <bot>bignonia</bot> occurs 10 times
+;
+; 224653 : SvetapAwalA : Bingnonia : Bignonia : typo or print change?=
+; <L>224653<pc>1107,1<k1>SvetapAwalA<k2>Sveta/—pAwalA<e>3
+747956 old <s>Sveta/—pAwalA</s> ¦ <lex>f.</lex> a white-flowering variety of <bot>Bingnonia</bot>, <ls>L.</ls><info lex="f"/>
+747956 new <s>Sveta/—pAwalA</s> ¦ <lex>f.</lex> a white-flowering variety of <bot>Bignonia</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>clerodendrum siphoantus</bot> occurs 1 times
+; new: <bot>clerodendrum siphonanthus</bot> occurs 10 times
+;
+; 146659 : brahmacAraRI : Clerodendrum Siphoantus : Clerodendrum Siphonanthus : typo or print change?=
+; <L>146659<pc>738,2<k1>brahmacAraRI<k2>brahma—cAraRI<e>3
+493543 old <s>brahma—cAraRI</s> ¦ <lex>f.</lex> <bot>Clerodendrum Siphoantus</bot>, <ls>L.</ls> (<ab>prob.</ab> <ab>w.r.</ab> for <s>-cAriRI</s>). <info lex="f"/>
+493543 new <s>brahma—cAraRI</s> ¦ <lex>f.</lex> <bot>Clerodendrum Siphonanthus</bot>, <ls>L.</ls> (<ab>prob.</ab> <ab>w.r.</ab> for <s>-cAriRI</s>). <info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>clerodendrum siphorantus</bot> occurs 1 times
+; new: <bot>clerodendrum siphonanthus</bot> occurs 10 times
+;
+; 115541 : padmA : Clerodendrum Siphorantus : Clerodendrum Siphonanthus : typo or print change?=
+; <L>115541<pc>584,2<k1>padmA<k2>padmA<e>1B
+389969 old ¦ a species of plant, <ls>Suśr.</ls> (<bot>Clerodendrum Siphorantus</bot> or <bot>Hibiscus Mutabilis</bot>, <ls>L.</ls>)<info lex="inh"/>
+389969 new ¦ a species of plant, <ls>Suśr.</ls> (<bot>Clerodendrum Siphonanthus</bot> or <bot>Hibiscus Mutabilis</bot>, <ls>L.</ls>)<info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>arthocarpus locucha</bot> occurs 1 times
+; new: <bot>artocarpus lacucha</bot> occurs 10 times
+;
+; 220273 : SUra : Arthocarpus Locucha : Artocarpus Lacucha : typo or print change?=
+; <L>220273<pc>1086,1<k1>SUra<k2>SU/ra<e>2B
+734018 old ¦ <bot>Arthocarpus Locucha</bot>, <ls>L.</ls><info lex="inh"/>
+734018 new ¦ <bot>Artocarpus Lacucha</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>arhocarpus locucha</bot> occurs 1 times
+; new: <bot>artocarpus lacucha</bot> occurs 10 times
+;
+; 182060 : lAkuca : Arhocarpus Locucha : Artocarpus Lacucha : typo or print change?=
+; <L>182060<pc>899,3<k1>lAkuca<k2>lAkuca<e>1
+609472 old <s>lAkuca</s> ¦ <lex>mf(<s>I</s>)n.</lex> (<ab>fr.</ab> <s>lakuca</s>) belonging or relating to the tree <bot>Arhocarpus Locucha</bot>, <ls>Vāgbh.</ls><info lex="m:f#I:n"/>
+609472 new <s>lAkuca</s> ¦ <lex>mf(<s>I</s>)n.</lex> (<ab>fr.</ab> <s>lakuca</s>) belonging or relating to the tree <bot>Artocarpus Lacucha</bot>, <ls>Vāgbh.</ls><info lex="m:f#I:n"/>
+;
+; ------------------------------------------------------
+; old: <bot>artocarpus locuchs</bot> occurs 1 times
+; new: <bot>artocarpus lacucha</bot> occurs 10 times
+;
+; 164857 : muKa : Artocarpus Locuchs : Artocarpus Lacucha : typo or print change?=
+; <L>164857<pc>819,3<k1>muKa<k2>muKa<e>1B
+553310 old <s>muKa</s> ¦ <lex>m.</lex> <bot>Artocarpus Locuchs</bot>, <ls>L.</ls><info lex="m"/>
+553310 new <s>muKa</s> ¦ <lex>m.</lex> <bot>Artocarpus Lacucha</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>heliotroplum indicum</bot> occurs 1 times
+; new: <bot>heliotropium indicum</bot> occurs 9 times
+;
+; 223327 : SrIhastinI : Heliotroplum Indicum : Heliotropium Indicum : typo or print change?=
+; <L>223327<pc>1100,2<k1>SrIhastinI<k2>SrI—hastinI<e>3
+743660 old <s>SrI—hastinI</s> ¦ <lex>f.</lex> the sunflower, <bot>Heliotroplum Indicum</bot> (so called as held in the hand of <s1 slp1="SrI">Śrī</s1> or <s1 slp1="lakzmI">Lakṣmī</s1>), <ls>L.</ls><info lex="f"/>
+743660 new <s>SrI—hastinI</s> ¦ <lex>f.</lex> the sunflower, <bot>Heliotropium Indicum</bot> (so called as held in the hand of <s1 slp1="SrI">Śrī</s1> or <s1 slp1="lakzmI">Lakṣmī</s1>), <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>mendicago esculenta</bot> occurs 1 times
+; new: <bot>medicago esculenta</bot> occurs 9 times
+;
+; 5885 : anirmAlyA : Mendicago Esculenta : Medicago Esculenta : typo or print change?=
+; <L>5885<pc>30,1<k1>anirmAlyA<k2>a-nirmAlyA<e>2
+21543 old <s>a-nirmAlyA</s> ¦ <lex>f.</lex> the plant <bot>Mendicago Esculenta</bot>.<info lex="f"/>
+21543 new <s>a-nirmAlyA</s> ¦ <lex>f.</lex> the plant <bot>Medicago Esculenta</bot>.<info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>artocarpus lakucha</bot> occurs 2 times
+; new: <bot>artocarpus lacucha</bot> occurs 10 times
+;
+; 46809 : kazAyin : Artocarpus Lakucha : Artocarpus Lacucha : typo or print change?=
+; <L>46809<pc>265,3<k1>kazAyin<k2>kazAyin<e>2B
+163693 old ¦ <bot>Artocarpus Lakucha</bot>, <ls>L.</ls><info lex="inh"/>
+163693 new ¦ <bot>Artocarpus Lacucha</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 60711 : Kagavaktra : Artocarpus Lakucha : Artocarpus Lacucha : typo or print change?=
+; <L>60711<pc>334,2<k1>Kagavaktra<k2>Ka/—ga—vaktra<e>4
+208153 old <s>Ka/—ga—vaktra</s> ¦ <lex>m.</lex> <bot>Artocarpus Lakucha</bot>, <ls>L.</ls><info lex="m"/>
+208153 new <s>Ka/—ga—vaktra</s> ¦ <lex>m.</lex> <bot>Artocarpus Lacucha</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>pterospermnm suberifolium</bot> occurs 1 times
+; new: <bot>pterospermum suberifolium</bot> occurs 8 times
+;
+; 15699 : arGyArha : Pterospermnm Suberifolium : Pterospermum Suberifolium : typo or print change?=
+; <L>15699<pc>89,3<k1>arGyArha<k2>arGyArha<e>3
+56963 old <s>arGyA<srs/>rha</s> ¦ <lex>m.</lex> the plant <bot>Pterospermnm Suberifolium</bot>, <ls>L.</ls><info lex="m"/>
+56963 new <s>arGyA<srs/>rha</s> ¦ <lex>m.</lex> the plant <bot>Pterospermum Suberifolium</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>rosa glanulifera</bot> occurs 1 times
+; new: <bot>rosa glandulifera</bot> occurs 8 times
+;
+; 98650 : dvirePagaRasaMkulA : Rosa Glanulifera : Rosa Glandulifera : typo or print change?=
+; <L>98650<pc>505,3<k1>dvirePagaRasaMkulA<k2>dvi—rePa—gaRa-saMkulA<e>4
+332436 old <s>dvi—rePa—gaRa-saMkulA</s> ¦ <lex>f.</lex> <bot>Rosa Glanulifera</bot>, <ls>L.</ls><info lex="f"/>
+332436 new <s>dvi—rePa—gaRa-saMkulA</s> ¦ <lex>f.</lex> <bot>Rosa Glandulifera</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>melia sempervifrens</bot> occurs 1 times
+; new: <bot>melia sempervirens</bot> occurs 8 times
+;
+; 97995 : drekA : Melia Sempervifrens : Melia Sempervirens : typo or print change?=
+; <L>97995<pc>502,3<k1>drekA<k2>drekA<e>1
+330049 old <s>drekA</s> ¦ <lex>f.</lex> <bot>Melia Sempervifrens</bot>, <ls>Bhpr.</ls><info lex="f"/>
+330049 new <s>drekA</s> ¦ <lex>f.</lex> <bot>Melia Sempervirens</bot>, <ls>Bhpr.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>hibiscus cannabhinus</bot> occurs 1 times
+; new: <bot>hibiscus cannabinus</bot> occurs 8 times
+;
+; 138373 : prasTikA : Hibiscus Cannabhinus : Hibiscus Cannabinus : typo or print change?=
+; <L>138373<pc>699,3<k1>prasTikA<k2>prasTikA<e>2B
+466342 old ¦ (<ab>prob.</ab>) <bot>Hibiscus Cannabhinus</bot>, <ls>Bhpr.</ls><info lex="inh"/>
+466342 new ¦ (<ab>prob.</ab>) <bot>Hibiscus Cannabinus</bot>, <ls>Bhpr.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>convolvulus torpethum</bot> occurs 2 times
+; new: <bot>convolvulus turpethum</bot> occurs 9 times
+;
+; 16154 : arDacandrA : Convolvulus Torpethum : Convolvulus Turpethum : typo or print change?=
+; <L>16154<pc>92,1<k1>arDacandrA<k2>arDa/—candrA<e>3B
+58555 old <s>arDa/—candrA</s> ¦ <lex>f.</lex> the plant <bot>Convolvulus Torpethum</bot><info lex="f"/>
+58555 new <s>arDa/—candrA</s> ¦ <lex>f.</lex> the plant <bot>Convolvulus Turpethum</bot><info lex="f"/>
+;
+; 16162 : arDacandrikA : Convolvulus Torpethum : Convolvulus Turpethum : typo or print change?=
+; <L>16162<pc>92,1<k1>arDacandrikA<k2>arDa/—candrikA<e>3B
+58585 old <s>arDa/—candrikA</s> ¦ <lex>f.</lex> <ab>N.</ab> of a climbing plant (<bot>Gynandropsis Pentaphylla</bot> or <bot>Convolvulus Torpethum</bot>; See <s>arDacandrA</s> above). <info lex="f"/>
+58585 new <s>arDa/—candrikA</s> ¦ <lex>f.</lex> <ab>N.</ab> of a climbing plant (<bot>Gynandropsis Pentaphylla</bot> or <bot>Convolvulus Turpethum</bot>; See <s>arDacandrA</s> above). <info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>acorus colamus</bot> occurs 1 times
+; new: <bot>acorus calamus</bot> occurs 8 times
+;
+; 184694.2 : vacA : Acorus Colamus : Acorus Calamus : typo or print change?=
+; <L>184694.2<pc>912,3<k1>vacA<k2>vacA<e>2B
+617961 old ¦ a kind of aromatic root (<ab>accord.</ab> to some = <bot>Acorus Colamus</bot>), <ls>Hcar.</ls><info lex="inh"/>
+617961 new ¦ a kind of aromatic root (<ab>accord.</ab> to some = <bot>Acorus Calamus</bot>), <ls>Hcar.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>ocymum sanctum</bot> occurs 6 times
+; new: <bot>ocimum sanctum</bot> occurs 13 times
+;
+; 14198.24 : amftA : Ocymum Sanctum : Ocimum Sanctum : typo or print change?=
+; <L>14198.24<pc>82,2<k1>amftA<k2>a-mf/tA<e>2B
+51686 old ¦ <bot>Emblica Officinalis</bot>, <bot>Terminalia Citrina Roxb.</bot>, <bot>Cocculus Cordifolius</bot>, <bot>Piper Longum</bot>, <bot>Ocymum Sanctum</bot><info lex="inh"/>
+51686 new ¦ <bot>Emblica Officinalis</bot>, <bot>Terminalia Citrina Roxb.</bot>, <bot>Cocculus Cordifolius</bot>, <bot>Piper Longum</bot>, <bot>Ocimum Sanctum</bot><info lex="inh"/>
+;
+; 119545 : parRAsi : Ocymum Sanctum : Ocimum Sanctum : typo or print change?=
+; <L>119545<pc>606,3<k1>parRAsi<k2>parRAsi<e>3
+403840 old <s>parRA<srs/>si</s> ¦ <lex>m.</lex> <bot>Ocymum Sanctum</bot>, <ls>W.</ls><info lex="m"/>
+403840 new <s>parRA<srs/>si</s> ¦ <lex>m.</lex> <bot>Ocimum Sanctum</bot>, <ls>W.</ls><info lex="m"/>
+;
+; 190866 : vAnala : Ocymum Sanctum : Ocimum Sanctum : typo or print change?=
+; <L>190866<pc>940,3<k1>vAnala<k2>vAnala<e>2
+637891 old <s>vAnala</s> ¦ <lex>m.</lex> the black species of <s1 slp1="tulasI">Tulasī</s1> or holy basil (<bot>Ocymum Sanctum</bot>), <ls>L.</ls><info lex="m"/>
+637891 new <s>vAnala</s> ¦ <lex>m.</lex> the black species of <s1 slp1="tulasI">Tulasī</s1> or holy basil (<bot>Ocimum Sanctum</bot>), <ls>L.</ls><info lex="m"/>
+;
+; 192232 : vAvaya : Ocymum Sanctum : Ocimum Sanctum : typo or print change?=
+; <L>192232<pc>947,1<k1>vAvaya<k2>vAvaya<e>1
+642178 old <s>vAvaya</s> ¦ <lex>m.</lex> a sort of basil, <bot>Ocymum Sanctum</bot>, <ls>L.</ls><info lex="m"/>
+642178 new <s>vAvaya</s> ¦ <lex>m.</lex> a sort of basil, <bot>Ocimum Sanctum</bot>, <ls>L.</ls><info lex="m"/>
+;
+; 202596 : vizRuvallaBA : Ocymum Sanctum : Ocimum Sanctum : typo or print change?=
+; <L>202596<pc>1000,1<k1>vizRuvallaBA<k2>vi/zRu—vallaBA<e>3B
+676865 old ¦ <bot>Ocymum Sanctum</bot>, <ls>ib.</ls><info lex="inh"/>
+676865 new ¦ <bot>Ocimum Sanctum</bot>, <ls>ib.</ls><info lex="inh"/>
+;
+; 208023 : vEzRavI : Ocymum Sanctum : Ocimum Sanctum : typo or print change?=
+; <L>208023<pc>1027,3<k1>vEzRavI<k2>vEzRavI/<e>1B
+694668 old ¦ <bot>Ocymum Sanctum</bot>, <ls>L.</ls><info lex="inh"/>
+694668 new ¦ <bot>Ocimum Sanctum</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>diascorea</bot> occurs 2 times
+; new: <bot>dioscorea</bot> occurs 9 times
+;
+; 202225 : vizvaksenakAntA : Diascorea : Dioscorea : typo or print change?=
+; <L>202225<pc>998,1<k1>vizvaksenakAntA<k2>vizvak—sena—kAntA<e>4
+675637 old <s>vizvak—sena—kAntA</s> ¦ <lex>f.</lex> a kind of plant (= <s>priyaNgu</s> or a <bot>Diascorea</bot>), <ls>Car.</ls><info lex="f"/>
+675637 new <s>vizvak—sena—kAntA</s> ¦ <lex>f.</lex> a kind of plant (= <s>priyaNgu</s> or a <bot>Dioscorea</bot>), <ls>Car.</ls><info lex="f"/>
+;
+; 202227 : vizvaksenapriyA : Diascorea : Dioscorea : typo or print change?=
+; <L>202227<pc>998,1<k1>vizvaksenapriyA<k2>vizvak—sena—priyA<e>4A
+675643 old ¦ a <bot>Diascorea</bot>, <ls>L.</ls><info lex="inh"/>
+675643 new ¦ a <bot>Dioscorea</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>hibiscus pupulneoides</bot> occurs 1 times
+; new: <bot>hibiscus populneoides</bot> occurs 7 times
+;
+; 247508 : supArSva : Hibiscus Pupulneoides : Hibiscus Populneoides : typo or print change?=
+; <L>247508<pc>1228,1<k1>supArSva<k2>su—pArSva<e>3B
+824344 old ¦ <bot>Hibiscus Pupulneoides</bot>, <ls>L.</ls><info lex="inh"/>
+824344 new ¦ <bot>Hibiscus Populneoides</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>vanguieria spinosa</bot> occurs 9 times
+; new: <bot>vangueria spinosa</bot> occurs 15 times
+;
+; 158394 : maruvaka : Vanguieria Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>158394<pc>790,3<k1>maruvaka<k2>maruvaka<e>2A
+531943 old ¦ <bot>Vanguieria Spinosa</bot><info lex="inh"/>
+531943 new ¦ <bot>Vangueria Spinosa</bot><info lex="inh"/>
+;
+; 175502 : rasa : Vanguieria Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>175502<pc>869,3<k1>rasa<k2>ra/sa<e>2A
+588245 old ¦ <bot>Vanguieria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+588245 new ¦ <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 190916 : vAntikft : Vanguieria Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>190916<pc>941,1<k1>vAntikft<k2>vAnti—kft<e>3B
+638044 old <s>vAnti—kft</s> ¦ <lex>m.</lex> <bot>Vanguieria Spinosa</bot>, <ls>L.</ls><info lex="m"/>
+638044 new <s>vAnti—kft</s> ¦ <lex>m.</lex> <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="m"/>
+;
+; 201747 : vizapuzpa : Vanguieria Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>201747<pc>995,3<k1>vizapuzpa<k2>vi/za—puzpa<e>3B
+674094 old <s>vi/za—puzpa</s> ¦ <lex>m.</lex> ‘having poisonous flowers’, <bot>Vanguieria Spinosa</bot>, <ls>L.</ls><info lex="m"/>
+674094 new <s>vi/za—puzpa</s> ¦ <lex>m.</lex> ‘having poisonous flowers’, <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="m"/>
+;
+; 201749 : vizapuzpaka : Vanguieria Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>201749<pc>995,3<k1>vizapuzpaka<k2>vi/za—puzpaka<e>3B
+674100 old <s>vi/za—puzpaka</s> ¦ <lex>m.</lex> <bot>Vanguieria Spinosa</bot>, <ls>L.</ls><info lex="m"/>
+674100 new <s>vi/za—puzpaka</s> ¦ <lex>m.</lex> <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="m"/>
+;
+; 214108 : SalAkA : Vanguieria Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>214108<pc>1059,1<k1>SalAkA<k2>SalAkA<e>2A
+714561 old ¦ a <ab>partic.</ab> thorny shrub, <bot>Vanguieria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+714561 new ¦ a <ab>partic.</ab> thorny shrub, <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 214129 : Salya : Vanguieria Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>214129<pc>1059,1<k1>Salya<k2>Salya<e>2B
+714624 old ¦ <bot>Vanguieria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+714624 new ¦ <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 214176 : Salyaka : Vanguieria Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>214176<pc>1059,2<k1>Salyaka<k2>Sa/lyaka<e>2A
+714765 old ¦ <bot>Vanguieria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+714765 new ¦ <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 224380 : Svasana : Vanguieria Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>224380<pc>1105,3<k1>Svasana<k2>Svasana/<e>2B
+747089 old ¦ <bot>Vanguieria Spinosa</bot>, <ls>Car.</ls><info lex="inh"/>
+747089 new ¦ <bot>Vangueria Spinosa</bot>, <ls>Car.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>arum colacasia</bot> occurs 1 times
+; new: <bot>arum colocasia</bot> occurs 7 times
+;
+; 211239 : Sakawa : Arum Colacasia : Arum Colocasia : typo or print change?=
+; <L>211239<pc>1046,1<k1>Sakawa<k2>Sakawa<e>1B
+705292 old ¦ <bot>Arum Colacasia</bot>, <ls>L.</ls><info lex="inh"/>
+705292 new ¦ <bot>Arum Colocasia</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>nymphiaea rubra</bot> occurs 1 times
+; new: <bot>nymphaea rubra</bot> occurs 7 times
+;
+; 16822.1 : alohita : Nymphiaea Rubra : Nymphaea Rubra : typo or print change?=
+; <L>16822.1<pc>95,2<k1>alohita<k2>a-lohita/<e>1B
+60954 old <s>a-lohita/</s> ¦ <lex>n.</lex> <bot>Nymphiaea Rubra</bot>, <ls>L.</ls><info lex="n"/>
+60954 new <s>a-lohita/</s> ¦ <lex>n.</lex> <bot>Nymphaea Rubra</bot>, <ls>L.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; old: <bot>artocarpus locucha</bot> occurs 4 times
+; new: <bot>artocarpus lacucha</bot> occurs 10 times
+;
+; 95163 : dfQavalkala : Artocarpus Locucha : Artocarpus Lacucha : typo or print change?=
+; <L>95163<pc>490,3<k1>dfQavalkala<k2>dfQa—valkala<e>3
+320848 old <s>dfQa—valkala</s> ¦ <lex>m.</lex> ‘id.’, <bot>Artocarpus Locucha</bot>, <ls>L.</ls><info lex="m"/>
+320848 new <s>dfQa—valkala</s> ¦ <lex>m.</lex> ‘id.’, <bot>Artocarpus Lacucha</bot>, <ls>L.</ls><info lex="m"/>
+;
+; 175388 : ravipriya : Artocarpus Locucha : Artocarpus Lacucha : typo or print change?=
+; <L>175388<pc>869,1<k1>ravipriya<k2>ravi—priya<e>3A
+587886 old ¦ <bot>Artocarpus Locucha</bot><info lex="inh"/>
+587886 new ¦ <bot>Artocarpus Lacucha</bot><info lex="inh"/>
+;
+; 215931 : SAla : Artocarpus Locucha : Artocarpus Lacucha : typo or print change?=
+; <L>215931<pc>1067,1<k1>SAla<k2>SAla/<e>1B
+720198 old ¦ <bot>Artocarpus Locucha</bot>, <ls>L.</ls><info lex="inh"/>
+720198 new ¦ <bot>Artocarpus Lacucha</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 256150 : sTUlaskanDa : Artocarpus Locucha : Artocarpus Lacucha : typo or print change?=
+; <L>256150<pc>1266,2<k1>sTUlaskanDa<k2>sTUla/—skanDa<e>3
+852164 old <s>sTUla/—skanDa</s> ¦ <lex>m.</lex> ‘having a thick stem’, <bot>Artocarpus Locucha</bot>, <ls>L.</ls><info lex="m"/>
+852164 new <s>sTUla/—skanDa</s> ¦ <lex>m.</lex> ‘having a thick stem’, <bot>Artocarpus Lacucha</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>coculus tomentosus</bot> occurs 1 times
+; new: <bot>cocculus tomentosus</bot> occurs 6 times
+;
+; 246561 : sudarSanA : Coculus Tomentosus : Cocculus Tomentosus : typo or print change?=
+; <L>246561<pc>1224,2<k1>sudarSanA<k2>su—darSanA/<e>3B
+821271 old ¦ <bot>Coculus Tomentosus</bot>, <ls>L.</ls><info lex="inh"/>
+821271 new ¦ <bot>Cocculus Tomentosus</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>michelia champeca</bot> occurs 1 times
+; new: <bot>michelia champaca</bot> occurs 6 times
+;
+; 255769 : sTirapuzpa : Michelia Champeca : Michelia Champaca : typo or print change?=
+; <L>255769<pc>1264,3<k1>sTirapuzpa<k2>sTira/—puzpa<e>3
+850985 old <s>sTira/—puzpa</s> ¦ <lex>m.</lex> ‘having firm flowers’, <bot>Michelia Champeca</bot>, <ls>L.</ls><info lex="m"/>
+850985 new <s>sTira/—puzpa</s> ¦ <lex>m.</lex> ‘having firm flowers’, <bot>Michelia Champaca</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>ardisea solanacea</bot> occurs 1 times
+; new: <bot>ardisia solanacea</bot> occurs 6 times
+;
+; 218318 : SItapallava : Ardisea Solanacea : Ardisia Solanacea : typo or print change?=
+; <L>218318<pc>1077,3<k1>SItapallava<k2>SIta/—pallava<e>3
+727867 old <s>SIta/—pallava</s> ¦ <lex>m.</lex> <bot>Ardisea Solanacea</bot>, <ls>W.</ls><info lex="m"/>
+727867 new <s>SIta/—pallava</s> ¦ <lex>m.</lex> <bot>Ardisia Solanacea</bot>, <ls>W.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>convolvolus argenteus</bot> occurs 2 times
+; new: <bot>convolvulus argenteus</bot> occurs 6 times
+;
+; 8387 : antrI : Convolvolus Argenteus : Convolvulus Argenteus : typo or print change?=
+; <L>8387<pc>44,3<k1>antrI<k2>antrI<e>1B
+30834 old <s>antrI</s> ¦ <lex>f.</lex> the plant <bot>Convolvolus Argenteus</bot> or <bot>Ipomoea Pes Caprae Roth.</bot><info lex="f"/>
+30834 new <s>antrI</s> ¦ <lex>f.</lex> the plant <bot>Convolvulus Argenteus</bot> or <bot>Ipomoea Pes Caprae Roth.</bot><info lex="f"/>
+;
+; 235313 : samudraSoza : Convolvolus Argenteus : Convolvulus Argenteus : typo or print change?=
+; <L>235313<pc>1167,1<k1>samudraSoza<k2>sam-udra/—Soza<e>3
+784086 old <s>sam-udra/—Soza</s> ¦ <lex>m.</lex> the creeping plant <bot>Convolvolus Argenteus</bot>, <ls>MW.</ls><info lex="m"/>
+784086 new <s>sam-udra/—Soza</s> ¦ <lex>m.</lex> the creeping plant <bot>Convolvulus Argenteus</bot>, <ls>MW.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>angeissus latifolia</bot> occurs 1 times
+; new: <bot>anogeissus latifolia</bot> occurs 5 times
+;
+; 227607 : sakawa : Angeissus Latifolia : Anogeissus Latifolia : typo or print change?=
+; <L>227607<pc>1123,3<k1>sakawa<k2>sa—kawa<e>3B
+757986 old <s>sa—kawa</s> ¦ <lex>m.</lex> <bot>Trophis Aspera</bot> or <bot>Angeissus Latifolia</bot>, <ls>L.</ls><info lex="m"/>
+757986 new <s>sa—kawa</s> ¦ <lex>m.</lex> <bot>Trophis Aspera</bot> or <bot>Anogeissus Latifolia</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>vanguiera spinosa</bot> occurs 11 times
+; new: <bot>vangueria spinosa</bot> occurs 15 times
+;
+; 32406 : udarka : Vanguiera Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>32406<pc>184,3<k1>udarka<k2>ud-arka/<e>2A
+115240 old ¦ the plant <bot>Vanguiera Spinosa</bot>.<info lex="inh"/>
+115240 new ¦ the plant <bot>Vangueria Spinosa</bot>.<info lex="inh"/>
+;
+; 42444 : kaRwakin : Vanguiera Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>42444<pc>245,3<k1>kaRwakin<k2>kaRwakin<e>2B
+149289 old <s>kaRwakin</s> ¦ <lex>m.</lex> <ab>N.</ab> of several plants (<ab>viz.</ab> <bot>Acacia Catechu</bot>; <bot>Vanguiera Spinosa</bot>; <bot>Ruellia Longifolia</bot>; <bot>Zizyphus Jujuba</bot>; bamboo), <ls>L.</ls><info lex="m"/>
+149289 new <s>kaRwakin</s> ¦ <lex>m.</lex> <ab>N.</ab> of several plants (<ab>viz.</ab> <bot>Acacia Catechu</bot>; <bot>Vangueria Spinosa</bot>; <bot>Ruellia Longifolia</bot>; <bot>Zizyphus Jujuba</bot>; bamboo), <ls>L.</ls><info lex="m"/>
+;
+; 42462 : kaRWa : Vanguiera Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>42462<pc>245,3<k1>kaRWa<k2>kaRWa/<e>1A
+149345 old ¦ <bot>Vanguiera Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+149345 new ¦ <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 68501 : granTiPala : Vanguiera spinosa : Vangueria spinosa : typo or print change?=
+; <L>68501<pc>371,1<k1>granTiPala<k2>granTi/—Pala<e>3A
+233323 old ¦ <bot>Vanguiera spinosa</bot>, <ls>L.</ls> : the plant <s1 slp1="sAkuruRqa">Sākuruṇḍa</s1>, <ls>L.</ls><info lex="inh"/>
+233323 new ¦ <bot>Vangueria spinosa</bot>, <ls>L.</ls> : the plant <s1 slp1="sAkuruRqa">Sākuruṇḍa</s1>, <ls>L.</ls><info lex="inh"/>
+;
+; 83661 : taskara : Vanguiera spinosa : Vangueria spinosa : typo or print change?=
+; <L>83661<pc>441,2<k1>taskara<k2>ta/skara<e>1A
+282942 old ¦ <bot>Vanguiera spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+282942 new ¦ <bot>Vangueria spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 155465 : madana : Vanguiera Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>155465<pc>778,2<k1>madana<k2>ma/dana<e>2A
+522308 old ¦ <bot>Vanguiera Spinosa</bot>, <ls>Suśr.</ls><info lex="inh"/>
+522308 new ¦ <bot>Vangueria Spinosa</bot>, <ls>Suśr.</ls><info lex="inh"/>
+;
+; 155481 : madanakaRwaka : Vanguiera Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>155481<pc>778,2<k1>madanakaRwaka<k2>ma/dana—kaRwaka<e>3A
+522356 old ¦ <bot>Vanguiera Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+522356 new ¦ <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 155513 : madanaPala : Vanguiera Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>155513<pc>778,2<k1>madanaPala<k2>ma/dana—Pala<e>3
+522455 old <s>ma/dana—Pala</s> ¦ <lex>n.</lex> the fruit of <bot>Vanguiera Spinosa</bot>, <ls>Suśr.</ls><info lex="n"/>
+522455 new <s>ma/dana—Pala</s> ¦ <lex>n.</lex> the fruit of <bot>Vangueria Spinosa</bot>, <ls>Suśr.</ls><info lex="n"/>
+;
+; 162487 : mAdana : Vanguiera Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>162487<pc>808,1<k1>mAdana<k2>mA/dana<e>2B
+545566 old ¦ <bot>Vanguiera Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+545566 new ¦ <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 183796 : lohakaRwaka : Vanguiera Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>183796<pc>908,3<k1>lohakaRwaka<k2>loha/—kaRwaka<e>3
+615065 old <s>loha/—kaRwaka</s> ¦ <lex>m.</lex> <bot>Vanguiera Spinosa</bot>, <ls>L.</ls><info lex="m"/>
+615065 new <s>loha/—kaRwaka</s> ¦ <lex>m.</lex> <bot>Vangueria Spinosa</bot>, <ls>L.</ls><info lex="m"/>
+;
+; 194685 : vicakila : Vanguiera Spinosa : Vangueria Spinosa : typo or print change?=
+; <L>194685<pc>958,2<k1>vicakila<k2>vicakila<e>1
+650299 old <s>vicakila</s> ¦ <lex>m.</lex> a kind of jasmine (<bot>Jasminum Zambac</bot>), <ls>Vās.</ls>; <ls>Bālar.</ls>; <ls>Dhūrtan.</ls> (<ls>L.</ls> also ‘a species of <bot>Artemisia</bot>’ and ‘<bot>Vanguiera Spinosa</bot>’). <info lex="m"/>
+650299 new <s>vicakila</s> ¦ <lex>m.</lex> a kind of jasmine (<bot>Jasminum Zambac</bot>), <ls>Vās.</ls>; <ls>Bālar.</ls>; <ls>Dhūrtan.</ls> (<ls>L.</ls> also ‘a species of <bot>Artemisia</bot>’ and ‘<bot>Vangueria Spinosa</bot>’). <info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>hincha repens</bot> occurs 1 times
+; new: <bot>hingcha repens</bot> occurs 5 times
+;
+; 155158 : matsyAkzI : Hincha Repens : Hingcha Repens : typo or print change?=
+; <L>155158<pc>776,3<k1>matsyAkzI<k2>matsyAkzI<e>3A
+521263 old ¦ <bot>Hincha Repens</bot>, <ls>L.</ls><info lex="inh"/>
+521263 new ¦ <bot>Hingcha Repens</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>bhumea lacera</bot> occurs 1 times
+; new: <bot>blumea lacera</bot> occurs 5 times
+;
+; 20806 : asaru : Bhumea Lacera : Blumea Lacera : typo or print change?=
+; <L>20806<pc>120,1<k1>asaru<k2>asaru<e>1
+74908 old <s>asaru</s> ¦ <lex>m.</lex> the medicinal plant <bot>Bhumea Lacera</bot>, <ls>L.</ls><info lex="m"/>
+74908 new <s>asaru</s> ¦ <lex>m.</lex> the medicinal plant <bot>Blumea Lacera</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>ipomaea</bot> occurs 1 times
+; new: <bot>ipomoea</bot> occurs 5 times
+;
+; 48164 : kAmalatA : Ipomaea : Ipomoea : typo or print change?=
+; <L>48164<pc>272,3<k1>kAmalatA<k2>kA/ma—latA<e>3A
+167968 old ¦ the plant <bot>Ipomaea</bot> (<bot>Quamoclit Pennata</bot>). <info lex="inh"/>
+167968 new ¦ the plant <bot>Ipomoea</bot> (<bot>Quamoclit Pennata</bot>). <info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>sphaerantus mollis</bot> occurs 1 times
+; new: <bot>sphaeranthus mollis</bot> occurs 4 times
+;
+; 150702 : Bikzu : Sphaerantus Mollis : Sphaeranthus Mollis : typo or print change?=
+; <L>150702<pc>756,3<k1>Bikzu<k2>Bikzu<e>2A
+506876 old ¦ <bot>Sphaerantus Mollis</bot>, <ls>L.</ls><info lex="inh"/>
+506876 new ¦ <bot>Sphaeranthus Mollis</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>gomphrenea globosa</bot> occurs 1 times
+; new: <bot>gomphrena globosa</bot> occurs 4 times
+;
+; 9577 : aparimlAna : Gomphrenea Globosa : Gomphrena Globosa : typo or print change?=
+; <L>9577<pc>51,2<k1>aparimlAna<k2>a-parimlAna<e>1
+35429 old <s>a-parimlAna</s> ¦ <lex>m.</lex> ‘not withering, not decaying’, the plant <bot>Gomphrenea Globosa</bot>.<info lex="m"/>
+35429 new <s>a-parimlAna</s> ¦ <lex>m.</lex> ‘not withering, not decaying’, the plant <bot>Gomphrena Globosa</bot>.<info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>diascorea globosa</bot> occurs 1 times
+; new: <bot>dioscorea globosa</bot> occurs 4 times
+;
+; 256643 : sparSasaMkocin : Diascorea Globosa : Dioscorea Globosa : typo or print change?=
+; <L>256643<pc>1269,1<k1>sparSasaMkocin<k2>sparSa/—saMkocin<e>3
+853777 old <s>sparSa/—saMkocin</s> ¦ <lex>m.</lex> ‘closing at the <ab n="touches">t°</ab>’, <bot>Diascorea Globosa</bot>, <ls>L.</ls><info lex="m"/>
+853777 new <s>sparSa/—saMkocin</s> ¦ <lex>m.</lex> ‘closing at the <ab n="touches">t°</ab>’, <bot>Dioscorea Globosa</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>benincasa ceriftra</bot> occurs 1 times
+; new: <bot>benincasa cerifera</bot> occurs 4 times
+;
+; 105047 : nAgapuzpaPalA : Benincasa Ceriftra : Benincasa Cerifera : typo or print change?=
+; <L>105047<pc>533,2<k1>nAgapuzpaPalA<k2>nAga/—puzpa—PalA<e>4
+353782 old <s>nAga/—puzpa—PalA</s> ¦ <lex>f.</lex> <bot>Benincasa Ceriftra</bot>, <ls>L.</ls><info lex="f"/>
+353782 new <s>nAga/—puzpa—PalA</s> ¦ <lex>f.</lex> <bot>Benincasa Cerifera</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>daucus cirota</bot> occurs 2 times
+; new: <bot>daucus carota</bot> occurs 5 times
+;
+; 123844 : piRqamUla : Daucus Cirota : Daucus Carota : typo or print change?=
+; <L>123844<pc>625,3<k1>piRqamUla<k2>pi/Rqa—mUla<e>3
+417773 old <s>pi/Rqa—mUla</s> and <s>pi/Rqa—mU°laka</s>, <lex>n.</lex> <bot>Daucus Cirota</bot>, <ls>L.</ls><info and="123844,piRqamUla;123845,piRqamUlaka"/><info lex="n"/>
+417773 new <s>pi/Rqa—mUla</s> and <s>pi/Rqa—mU°laka</s>, <lex>n.</lex> <bot>Daucus Carota</bot>, <ls>L.</ls><info and="123844,piRqamUla;123845,piRqamUlaka"/><info lex="n"/>
+;
+; 123845 : piRqamUlaka : Daucus Cirota : Daucus Carota : typo or print change?=
+; <L>123845<pc>625,3<k1>piRqamUlaka<k2>pi/Rqa—mUlaka<e>3
+417776 old <s>pi/Rqa—mUla</s> and <s>pi/Rqa—mU°laka</s>, <lex>n.</lex> <bot>Daucus Cirota</bot>, <ls>L.</ls><info and="123844,piRqamUla;123845,piRqamUlaka"/><info lex="n"/>
+417776 new <s>pi/Rqa—mUla</s> and <s>pi/Rqa—mU°laka</s>, <lex>n.</lex> <bot>Daucus Carota</bot>, <ls>L.</ls><info and="123844,piRqamUla;123845,piRqamUlaka"/><info lex="n"/>
+;
+; ------------------------------------------------------
+; old: <bot>valerian</bot> occurs 3 times
+; new: <bot>valeriana</bot> occurs 6 times
+;
+; 124447 : piSAcI : Valerian : Valeriana : typo or print change?=
+; <L>124447<pc>628,2<k1>piSAcI<k2>piSAcI<e>2B
+419680 old ¦ a species of <bot>Valerian</bot>, <ls>L.</ls><info lex="inh"/>
+419680 new ¦ a species of <bot>Valeriana</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; 180927 : laGumAMsI : Valerian : Valeriana : typo or print change?=
+; <L>180927<pc>894,2<k1>laGumAMsI<k2>laGu/—mAMsI<e>3B
+605878 old <s>laGu/—mAMsI</s> ¦ <lex>f.</lex> a kind of <bot>Valerian</bot>, <ls>L.</ls><info lex="f"/>
+605878 new <s>laGu/—mAMsI</s> ¦ <lex>f.</lex> a kind of <bot>Valeriana</bot>, <ls>L.</ls><info lex="f"/>
+;
+; 250950 : sUkzmapattrI : Valerian : Valeriana : typo or print change?=
+; <L>250950<pc>1240,3<k1>sUkzmapattrI<k2>sUkzma—pattrI<e>3B
+835466 old <s>sUkzma—pattrI</s> ¦ <lex>f.</lex> a kind of <bot>Valerian</bot>, <ls>L.</ls><info lex="f"/>
+835466 new <s>sUkzma—pattrI</s> ¦ <lex>f.</lex> a kind of <bot>Valeriana</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>caesalpina banducella</bot> occurs 2 times
+; new: <bot>caesalpina bonducella</bot> occurs 4 times
+;
+; 103184 : nawA : Caesalpina Banducella : Caesalpina Bonducella : typo or print change?=
+; <L>103184<pc>525,2<k1>nawA<k2>nawA<e>2B
+347537 old <s>nawA</s> ¦ <lex>f.</lex> <bot>Caesalpina Banducella</bot>, <ls>L.</ls><info lex="f"/>
+347537 new <s>nawA</s> ¦ <lex>f.</lex> <bot>Caesalpina Bonducella</bot>, <ls>L.</ls><info lex="f"/>
+;
+; 153948 : makarAkAra : Caesalpina Banducella : Caesalpina Bonducella : typo or print change?=
+; <L>153948<pc>771,3<k1>makarAkAra<k2>makarAkAra<e>3
+517441 old <s>makarA<srs/>kAra</s> ¦ <lex>m.</lex> ‘formed like a <ab n="Mákara" slp1="makara">M°</ab>’, a variety of <bot>Caesalpina Banducella</bot>, <ls>L.</ls><info lex="m"/>
+517441 new <s>makarA<srs/>kAra</s> ¦ <lex>m.</lex> ‘formed like a <ab n="Mákara" slp1="makara">M°</ab>’, a variety of <bot>Caesalpina Bonducella</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>coriandeum sativum</bot> occurs 1 times
+; new: <bot>coriandrum sativum</bot> occurs 3 times
+;
+; 99518 : DanyAka : Coriandeum Sativum : Coriandrum Sativum : typo or print change?=
+; <L>99518<pc>509,1<k1>DanyAka<k2>DanyAka<e>2
+335196 old <s>DanyAka</s> ¦ <lex>n.</lex> <bot>Coriandeum Sativum</bot>, <ls>L.</ls><info lex="n"/>
+335196 new <s>DanyAka</s> ¦ <lex>n.</lex> <bot>Coriandrum Sativum</bot>, <ls>L.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; old: <bot>xylacarpus granatum</bot> occurs 1 times
+; new: <bot>xylocarpus granatum</bot> occurs 3 times
+;
+; 141778 : Palatraya : Xylacarpus Granatum : Xylocarpus Granatum : typo or print change?=
+; <L>141778<pc>716,3<k1>Palatraya<k2>Pa/la—traya<e>3
+477592 old <s>Pa/la—traya</s> ¦ <lex>n.</lex> ‘<ab n="fruit">f°</ab>-triad’, the 3 <bio>myrobalans</bio>, <ls>L.</ls>; 3 sorts of <ab n="fruit">f°</ab> collectively (the <ab n="fruit">f°</ab> of the vine, of <bot>Grewia Asiatica</bot> or <bot>Xylacarpus Granatum</bot> and <bot>Gmelina Arborea</bot>), <ls>ib.</ls><info lex="n"/>
+477592 new <s>Pa/la—traya</s> ¦ <lex>n.</lex> ‘<ab n="fruit">f°</ab>-triad’, the 3 <bio>myrobalans</bio>, <ls>L.</ls>; 3 sorts of <ab n="fruit">f°</ab> collectively (the <ab n="fruit">f°</ab> of the vine, of <bot>Grewia Asiatica</bot> or <bot>Xylocarpus Granatum</bot> and <bot>Gmelina Arborea</bot>), <ls>ib.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; old: <bot>xylocarpus granasum</bot> occurs 1 times
+; new: <bot>xylocarpus granatum</bot> occurs 3 times
+;
+; 105003 : nAgadalopama : Xylocarpus Granasum : Xylocarpus Granatum : typo or print change?=
+; <L>105003<pc>533,1<k1>nAgadalopama<k2>nAga/—dalopama<e>3
+353641 old <s>nAga/—dalo<srs/>pama</s> ¦ <lex>n.</lex> <bot>Xylocarpus Granasum</bot>, <ls>L.</ls><info lex="n"/>
+353641 new <s>nAga/—dalo<srs/>pama</s> ¦ <lex>n.</lex> <bot>Xylocarpus Granatum</bot>, <ls>L.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; old: <bot>ehites dichotoma</bot> occurs 1 times
+; new: <bot>echites dichotoma</bot> occurs 3 times
+;
+; 189399 : vahniSiKa : Ehites Dichotoma : Echites Dichotoma : typo or print change?=
+; <L>189399<pc>934,1<k1>vahniSiKa<k2>va/hni—SiKa<e>3A
+633156 old ¦ <bot>Ehites Dichotoma</bot>, <ls>MW.</ls><info lex="inh"/>
+633156 new ¦ <bot>Echites Dichotoma</bot>, <ls>MW.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>basilla rubra</bot> occurs 1 times
+; new: <bot>basella rubra</bot> occurs 3 times
+;
+; 31659.5 : utpAdikA : Basilla Rubra : Basella Rubra : typo or print change?=
+; <L>31659.5<pc>180,3<k1>utpAdikA<k2>utpAdikA<e>2B
+112650 old ¦ <bot>Basilla Rubra</bot>, <ls>L.</ls><info lex="inh"/>
+112650 new ¦ <bot>Basella Rubra</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>alangiuni decapetalum</bot> occurs 1 times
+; new: <bot>alangium decapetalum</bot> occurs 3 times
+;
+; 107959 : nikocaka : Alangiuni Decapetalum : Alangium Decapetalum : typo or print change?=
+; <L>107959<pc>545,1<k1>nikocaka<k2>ni-kocaka<e>3
+363472 old <s>ni-ko°caka</s> ¦ <lex>m.</lex> <bot>Alangiuni Decapetalum</bot><info lex="m"/>
+363472 new <s>ni-ko°caka</s> ¦ <lex>m.</lex> <bot>Alangium Decapetalum</bot><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>cyperus hexastachys communis</bot> occurs 1 times
+; new: <bot>cyperus hexastachyus communis</bot> occurs 2 times
+;
+; 69441 : Gana : Cyperus Hexastachys communis : Cyperus Hexastachyus communis : typo or print change?=
+; <L>69441<pc>376,1<k1>Gana<k2>Gana/<e>1B
+236522 old ¦ the bulbous root of <bot>Cyperus Hexastachys communis</bot>, <ls>Suśr. vi</ls><info lex="inh"/>
+236522 new ¦ the bulbous root of <bot>Cyperus Hexastachyus communis</bot>, <ls>Suśr. vi</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>sarcostema viminale</bot> occurs 1 times
+; new: <bot>sarcostemma viminale</bot> occurs 2 times
+;
+; 28874 : indukalA : Sarcostema Viminale : Sarcostemma Viminale : typo or print change?=
+; <L>28874<pc>166,1<k1>indukalA<k2>i/ndu—kalA<e>3A
+102894 old ¦ <ab>N.</ab> of several plants, <bot>Cocculus Cordifolius</bot>, <bot>Sarcostema Viminale</bot>, <bot>Ligusticum Ajowan</bot>, <ls>L.</ls><info lex="inh"/>
+102894 new ¦ <ab>N.</ab> of several plants, <bot>Cocculus Cordifolius</bot>, <bot>Sarcostemma Viminale</bot>, <bot>Ligusticum Ajowan</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>andopogon saccharatus</bot> occurs 1 times
+; new: <bot>andropogon saccharatus</bot> occurs 2 times
+;
+; 95750 : devaDAnya : Andopogon Saccharatus : Andropogon Saccharatus : typo or print change?=
+; <L>95750<pc>493,2<k1>devaDAnya<k2>deva/—DAnya<e>3
+322773 old <s>deva/—DAnya</s> ¦ <lex>n.</lex> ‘god's grain’, <bot>Andropogon Saccharatus</bot>, <bot>Andopogon Saccharatus</bot>, <bot>Holcus Saccharatus</bot> or <bot>Saccharatus Cernuum</bot>, <ls>L.</ls><info lex="n"/>
+322773 new <s>deva/—DAnya</s> ¦ <lex>n.</lex> ‘god's grain’, <bot>Andropogon Saccharatus</bot>, <bot>Andropogon Saccharatus</bot>, <bot>Holcus Saccharatus</bot> or <bot>Saccharatus Cernuum</bot>, <ls>L.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; old: <bot>portulaca quadrifiga</bot> occurs 1 times
+; new: <bot>portulaca quadrifida</bot> occurs 2 times
+;
+; 155407 : madaSAka : Portulaca Quadrifiga : Portulaca Quadrifida : typo or print change?=
+; <L>155407<pc>778,1<k1>madaSAka<k2>ma/da—SAka<e>3
+522119 old <s>ma/da—SAka</s> ¦ <lex>m.</lex> <bot>Portulaca Quadrifiga</bot>, <ls>L.</ls><info lex="m"/>
+522119 new <s>ma/da—SAka</s> ¦ <lex>m.</lex> <bot>Portulaca Quadrifida</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>ameranthus oleraceus</bot> occurs 1 times
+; new: <bot>amaranthus oleraceus</bot> occurs 2 times
+;
+; 43314 : kaMDara : Ameranthus Oleraceus : Amaranthus Oleraceus : typo or print change?=
+; <L>43314<pc>250,1<k1>kaMDara<k2>kaM-Dara<e>2B
+152205 old ¦ <bot>Ameranthus Oleraceus</bot>, <ls>L.</ls><info lex="inh"/>
+152205 new ¦ <bot>Amaranthus Oleraceus</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>eleusine corocana</bot> occurs 2 times
+; new: <bot>eleusine coracana</bot> occurs 3 times
+;
+; 154577 : maqaka : Eleusine Corocana : Eleusine Coracana : typo or print change?=
+; <L>154577<pc>774,2<k1>maqaka<k2>maqaka<e>1
+519425 old <s>maqaka</s> ¦ <lex>m.</lex> <bot>Eleusine Corocana</bot>, <ls>L.</ls><info lex="m"/>
+519425 new <s>maqaka</s> ¦ <lex>m.</lex> <bot>Eleusine Coracana</bot>, <ls>L.</ls><info lex="m"/>
+;
+; 181191 : laYCana : Eleusine Corocana : Eleusine Coracana : typo or print change?=
+; <L>181191<pc>895,2<k1>laYCana<k2>laYCana<e>1
+606705 old <s>laYCana</s> ¦ <lex>m.</lex> <bot>Eleusine Corocana</bot>, <ls>L.</ls><info lex="m"/>
+606705 new <s>laYCana</s> ¦ <lex>m.</lex> <bot>Eleusine Coracana</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>sphaerantus</bot> occurs 1 times
+; new: <bot>sphaeranthus</bot> occurs 2 times
+;
+; 183039 : loBanI : Sphaerantus : Sphaeranthus : typo or print change?=
+; <L>183039<pc>905,1<k1>loBanI<k2>loBanI<e>2B
+612647 old <s>loBanI</s> ¦ <lex>f.</lex> a kind of <bot>Sphaerantus</bot>, <ls>L.</ls><info lex="f"/>
+612647 new <s>loBanI</s> ¦ <lex>f.</lex> a kind of <bot>Sphaeranthus</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>ocymum gratissimum</bot> occurs 2 times
+; new: <bot>ocimum gratissimum</bot> occurs 3 times
+;
+; 1951 : ajaganDA : Ocymum Gratissimum : Ocimum Gratissimum : typo or print change?=
+; <L>1951<pc>9,2<k1>ajaganDA<k2>aja/—ganDA<e>3
+7212 old <s>aja/—ganDA</s> or <s>aja/—ganDikA</s>, <lex>f.</lex> ‘smelling like a he-goat’, shrubby basil, <bot>Ocymum Gratissimum</bot>.<info or="1951,ajaganDA;1952,ajaganDikA"/><info lex="f"/>
+7212 new <s>aja/—ganDA</s> or <s>aja/—ganDikA</s>, <lex>f.</lex> ‘smelling like a he-goat’, shrubby basil, <bot>Ocimum Gratissimum</bot>.<info or="1951,ajaganDA;1952,ajaganDikA"/><info lex="f"/>
+;
+; 1952 : ajaganDikA : Ocymum Gratissimum : Ocimum Gratissimum : typo or print change?=
+; <L>1952<pc>9,2<k1>ajaganDikA<k2>aja/—ganDikA<e>3
+7215 old <s>aja/—ganDA</s> or <s>aja/—ganDikA</s>, <lex>f.</lex> ‘smelling like a he-goat’, shrubby basil, <bot>Ocymum Gratissimum</bot>.<info or="1951,ajaganDA;1952,ajaganDikA"/><info lex="f"/>
+7215 new <s>aja/—ganDA</s> or <s>aja/—ganDikA</s>, <lex>f.</lex> ‘smelling like a he-goat’, shrubby basil, <bot>Ocimum Gratissimum</bot>.<info or="1951,ajaganDA;1952,ajaganDikA"/><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>valisneria</bot> occurs 2 times
+; new: <bot>vallisneria</bot> occurs 3 times
+;
+; 14494 : ambucAmara : Valisneria : Vallisneria : typo or print change?=
+; <L>14494<pc>83,3<k1>ambucAmara<k2>a/mbu—cAmara<e>3
+52785 old <s>a/mbu—cAmara</s> ¦ <lex>n.</lex> ‘water-<ns>chowrī</ns>’, the aquatic plant <bot>Valisneria</bot>.<info lex="n"/>
+52785 new <s>a/mbu—cAmara</s> ¦ <lex>n.</lex> ‘water-<ns>chowrī</ns>’, the aquatic plant <bot>Vallisneria</bot>.<info lex="n"/>
+;
+; 14505 : ambutAla : Valisneria : Vallisneria : typo or print change?=
+; <L>14505<pc>83,3<k1>ambutAla<k2>a/mbu—tAla<e>3
+52830 old <s>a/mbu—tAla</s> ¦ <lex>m.</lex> (= <s>-cAmara</s>) the plant <bot>Valisneria</bot>.<info lex="m"/>
+52830 new <s>a/mbu—tAla</s> ¦ <lex>m.</lex> (= <s>-cAmara</s>) the plant <bot>Vallisneria</bot>.<info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>curcumis</bot> occurs 2 times
+; new: <bot>cucumis</bot> occurs 3 times
+;
+; 58885 : kzatriyavarA : Curcumis : Cucumis : typo or print change?=
+; <L>58885<pc>325,2<k1>kzatriyavarA<k2>kzatri/ya—varA<e>3
+202350 old <s>kzatri/ya—varA</s> ¦ <lex>f.</lex> a wild variety of <bot>Curcumis</bot>, <ls>L.</ls><info lex="f"/>
+202350 new <s>kzatri/ya—varA</s> ¦ <lex>f.</lex> a wild variety of <bot>Cucumis</bot>, <ls>L.</ls><info lex="f"/>
+;
+; 59929 : kzudracirBitA : Curcumis : Cucumis : typo or print change?=
+; <L>59929<pc>330,3<k1>kzudracirBitA<k2>kzudra/—cirBitA<e>3
+205682 old <s>kzudra/—cirBitA</s> ¦ <lex>f.</lex> a variety of <bot>Curcumis</bot>, <ls>L.</ls><info lex="f"/>
+205682 new <s>kzudra/—cirBitA</s> ¦ <lex>f.</lex> a variety of <bot>Cucumis</bot>, <ls>L.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>sepindus</bot> occurs 0 times
+; new: <bot>sapindus</bot> occurs 1 times
+;
+; ------------------------------------------------------
+; old: <bot>amaranthus oleracetis</bot> occurs 1 times
+; new: <bot>amaranthus oleraceus</bot> occurs 2 times
+;
+; 163595 : mArzika : Amaranthus Oleracetis : Amaranthus Oleraceus : typo or print change?=
+; <L>163595<pc>813,2<k1>mArzika<k2>mArzika<e>2
+549142 old <s>mArzika</s> ¦ <lex>m.</lex> <bot>Amaranthus Oleracetis</bot>, <ls>L.</ls><info lex="m"/>
+549142 new <s>mArzika</s> ¦ <lex>m.</lex> <bot>Amaranthus Oleraceus</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>ligusticum ajwaen</bot> occurs 4 times
+; new: <bot>ligusticum ajowan</bot> occurs 5 times
+;
+; 1988 : ajamoda : Ligusticum Ajwaen : Ligusticum Ajowan : typo or print change?=
+; <L>1988<pc>9,3<k1>ajamoda<k2>aja/—moda<e>3
+7326 old <s>aja/—moda</s>, <lex>m.</lex> or <s>aja/—modA</s>, <lex>f.</lex> or <s>aja/—modikA</s>, <lex>f.</lex> ‘goat's delight’, <ab>N.</ab> of various plants, common Carroway, the species called <bot>Ajwaen</bot> (<bot>Ligusticum Ajwaen</bot>), a species of Parsley, <bot>Apium Involucratum</bot>.<info or="1988,ajamoda;1989,ajamodA;1990,ajamodikA"/><info lex="m"/>
+7326 new <s>aja/—moda</s>, <lex>m.</lex> or <s>aja/—modA</s>, <lex>f.</lex> or <s>aja/—modikA</s>, <lex>f.</lex> ‘goat's delight’, <ab>N.</ab> of various plants, common Carroway, the species called <bot>Ajwaen</bot> (<bot>Ligusticum Ajowan</bot>), a species of Parsley, <bot>Apium Involucratum</bot>.<info or="1988,ajamoda;1989,ajamodA;1990,ajamodikA"/><info lex="m"/>
+;
+; 1989 : ajamodA : Ligusticum Ajwaen : Ligusticum Ajowan : typo or print change?=
+; <L>1989<pc>9,3<k1>ajamodA<k2>aja/—modA<e>3
+7329 old <s>aja/—moda</s>, <lex>m.</lex> or <s>aja/—modA</s>, <lex>f.</lex> or <s>aja/—modikA</s>, <lex>f.</lex> ‘goat's delight’, <ab>N.</ab> of various plants, common Carroway, the species called <bot>Ajwaen</bot> (<bot>Ligusticum Ajwaen</bot>), a species of Parsley, <bot>Apium Involucratum</bot>.<info or="1988,ajamoda;1989,ajamodA;1990,ajamodikA"/><info lex="f"/>
+7329 new <s>aja/—moda</s>, <lex>m.</lex> or <s>aja/—modA</s>, <lex>f.</lex> or <s>aja/—modikA</s>, <lex>f.</lex> ‘goat's delight’, <ab>N.</ab> of various plants, common Carroway, the species called <bot>Ajwaen</bot> (<bot>Ligusticum Ajowan</bot>), a species of Parsley, <bot>Apium Involucratum</bot>.<info or="1988,ajamoda;1989,ajamodA;1990,ajamodikA"/><info lex="f"/>
+;
+; 1990 : ajamodikA : Ligusticum Ajwaen : Ligusticum Ajowan : typo or print change?=
+; <L>1990<pc>9,3<k1>ajamodikA<k2>aja/—modikA<e>3
+7332 old <s>aja/—moda</s>, <lex>m.</lex> or <s>aja/—modA</s>, <lex>f.</lex> or <s>aja/—modikA</s>, <lex>f.</lex> ‘goat's delight’, <ab>N.</ab> of various plants, common Carroway, the species called <bot>Ajwaen</bot> (<bot>Ligusticum Ajwaen</bot>), a species of Parsley, <bot>Apium Involucratum</bot>.<info or="1988,ajamoda;1989,ajamodA;1990,ajamodikA"/><info lex="f"/>
+7332 new <s>aja/—moda</s>, <lex>m.</lex> or <s>aja/—modA</s>, <lex>f.</lex> or <s>aja/—modikA</s>, <lex>f.</lex> ‘goat's delight’, <ab>N.</ab> of various plants, common Carroway, the species called <bot>Ajwaen</bot> (<bot>Ligusticum Ajowan</bot>), a species of Parsley, <bot>Apium Involucratum</bot>.<info or="1988,ajamoda;1989,ajamodA;1990,ajamodikA"/><info lex="f"/>
+;
+; 28909 : induleKA : Ligusticum Ajwaen : Ligusticum Ajowan : typo or print change?=
+; <L>28909<pc>166,1<k1>induleKA<k2>i/ndu—leKA<e>3A
+103020 old ¦ a kind of lovage, <bot>Ligusticum Ajwaen</bot>, <ls>L.</ls><info lex="inh"/>
+103020 new ¦ a kind of lovage, <bot>Ligusticum Ajowan</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>barringtonsa acutangula gaertn.</bot> occurs 1 times
+; new: <bot>barringtonia acutangula gaertn.</bot> occurs 1 times
+;
+; 14496.1 : ambuja : Barringtonsa Acutangula Gaertn. : Barringtonia Acutangula Gaertn. : typo or print change?=
+; <L>14496.1<pc>83,3<k1>ambuja<k2>a/mbu—ja<e>3B
+52794 old <s>a/mbu—ja</s> ¦ <lex>m.</lex> the plant <bot>Barringtonsa Acutangula Gaertn.</bot><info lex="m"/>
+52794 new <s>a/mbu—ja</s> ¦ <lex>m.</lex> the plant <bot>Barringtonia Acutangula Gaertn.</bot><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>coleus scutellaroides</bot> occurs 1 times
+; new: <bot>coleus scutellarioides</bot> occurs 1 times
+;
+; 221106 : SElaBeda : Coleus Scutellaroides : Coleus Scutellarioides : typo or print change?=
+; <L>221106<pc>1090,1<k1>SElaBeda<k2>SEla—Beda<e>3
+736594 old <s>SEla—Beda</s> ¦ <lex>m.</lex> <bot>Coleus Scutellaroides</bot>, <ls>Suśr.</ls><info lex="m"/>
+736594 new <s>SEla—Beda</s> ¦ <lex>m.</lex> <bot>Coleus Scutellarioides</bot>, <ls>Suśr.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>cissimpelos hexandra</bot> occurs 2 times
+; new: <bot>cissampelos hexandra</bot> occurs 2 times
+;
+; 18821 : avidDakarRA : Cissimpelos Hexandra : Cissampelos Hexandra : typo or print change?=
+; <L>18821<pc>108,3<k1>avidDakarRA<k2>a-vidDa—karRA<e>3
+67892 old <s>a-vidDa—karRA</s> or <s>a-vidDa—karRI</s>, <lex>f.</lex> the plant <bot>Cissimpelos Hexandra</bot> (<ab>cf.</ab> <s>vidDa-karRA</s>.)<info or="18821,avidDakarRA;18822,avidDakarRI"/><info lex="f"/>
+67892 new <s>a-vidDa—karRA</s> or <s>a-vidDa—karRI</s>, <lex>f.</lex> the plant <bot>Cissampelos Hexandra</bot> (<ab>cf.</ab> <s>vidDa-karRA</s>.)<info or="18821,avidDakarRA;18822,avidDakarRI"/><info lex="f"/>
+;
+; 18822 : avidDakarRI : Cissimpelos Hexandra : Cissampelos Hexandra : typo or print change?=
+; <L>18822<pc>108,3<k1>avidDakarRI<k2>a-vidDa—karRI<e>3
+67895 old <s>a-vidDa—karRA</s> or <s>a-vidDa—karRI</s>, <lex>f.</lex> the plant <bot>Cissimpelos Hexandra</bot> (<ab>cf.</ab> <s>vidDa-karRA</s>.)<info or="18821,avidDakarRA;18822,avidDakarRI"/><info lex="f"/>
+67895 new <s>a-vidDa—karRA</s> or <s>a-vidDa—karRI</s>, <lex>f.</lex> the plant <bot>Cissampelos Hexandra</bot> (<ab>cf.</ab> <s>vidDa-karRA</s>.)<info or="18821,avidDakarRA;18822,avidDakarRI"/><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>sphaerantus indicus</bot> occurs 1 times
+; new: <bot>sphaeranthus indicus</bot> occurs 1 times
+;
+; 162249 : mAtf : Sphaerantus Indicus : Sphaeranthus Indicus : typo or print change?=
+; <L>162249<pc>807,1<k1>mAtf<k2>mAtf/<e>1A
+544830 old ¦ <bot>Salvinia Cucullata</bot>, <bot>Nardostachys Jatamansi</bot>, <bot>Sphaerantus Indicus</bot><info lex="inh"/>
+544830 new ¦ <bot>Salvinia Cucullata</bot>, <bot>Nardostachys Jatamansi</bot>, <bot>Sphaeranthus Indicus</bot><info lex="inh"/>
+;
+; ------------------------------------------------------
+; old: <bot>gomphraena globosa</bot> occurs 4 times
+; new: <bot>gomphrena globosa</bot> occurs 4 times
+;
+; 14000 : amalAtaka : Gomphraena Globosa : Gomphrena Globosa : typo or print change?=
+; <L>14000<pc>81,1<k1>amalAtaka<k2>a-malAtaka<e>1
+50918 old <s>a-malAtaka</s> ¦ or <s>a-malAnaka</s> <lex>n.</lex> (<s>a mlAna</s> <ab>q.v.</ab>) globe amaranth (<bot>Gomphraena Globosa</bot>), (<ab>cf.</ab> <s>amilAtaka</s>.)<info or="14000,amalAtaka;14000.1,amalAnaka"/><info lex="n"/>
+50918 new <s>a-malAtaka</s> ¦ or <s>a-malAnaka</s> <lex>n.</lex> (<s>a mlAna</s> <ab>q.v.</ab>) globe amaranth (<bot>Gomphrena Globosa</bot>), (<ab>cf.</ab> <s>amilAtaka</s>.)<info or="14000,amalAtaka;14000.1,amalAnaka"/><info lex="n"/>
+;
+; 14000.1 : amalAnaka : Gomphraena Globosa : Gomphrena Globosa : typo or print change?=
+; <L>14000.1<pc>81,1<k1>amalAnaka<k2>a-malAnaka<e>1
+50921 old <s>a-malAtaka</s> ¦ or <s>a-malAnaka</s> <lex>n.</lex> (<s>a mlAna</s> <ab>q.v.</ab>) globe amaranth (<bot>Gomphraena Globosa</bot>), (<ab>cf.</ab> <s>amilAtaka</s>.)<info or="14000,amalAtaka;14000.1,amalAnaka"/><info lex="n"/>
+50921 new <s>a-malAtaka</s> ¦ or <s>a-malAnaka</s> <lex>n.</lex> (<s>a mlAna</s> <ab>q.v.</ab>) globe amaranth (<bot>Gomphrena Globosa</bot>), (<ab>cf.</ab> <s>amilAtaka</s>.)<info or="14000,amalAtaka;14000.1,amalAnaka"/><info lex="n"/>
+;
+; 14657.1 : amlAna : Gomphraena Globosa : Gomphrena Globosa : typo or print change?=
+; <L>14657.1<pc>84,2<k1>amlAna<k2>a-mlAna<e>1B
+53391 old <s>a-mlAna</s> ¦ <lex>m.</lex> globe-amaranth (<bot>Gomphraena Globosa</bot>, <ls>L.</ls>), <ls>Hcat.</ls><info lex="m"/>
+53391 new <s>a-mlAna</s> ¦ <lex>m.</lex> globe-amaranth (<bot>Gomphrena Globosa</bot>, <ls>L.</ls>), <ls>Hcat.</ls><info lex="m"/>
+;
+; 161065 : mahAsahA : Gomphraena Globosa : Gomphrena Globosa : typo or print change?=
+; <L>161065<pc>801,3<k1>mahAsahA<k2>mahA/—sahA<e>3B
+541007 old <s>mahA/—sahA</s> ¦ <lex>f.</lex> <ab>N.</ab> of various plants, <ls>Car.</ls>; <ls>Suśr.</ls> (<bot>Gomphraena Globosa</bot>, <bot>Glycine Debilis</bot>, <ls>L.</ls>; <bot>Wrightia Antidysenterica</bot> &c., <ls>L.</ls>)<info lex="f"/>
+541007 new <s>mahA/—sahA</s> ¦ <lex>f.</lex> <ab>N.</ab> of various plants, <ls>Car.</ls>; <ls>Suśr.</ls> (<bot>Gomphrena Globosa</bot>, <bot>Glycine Debilis</bot>, <ls>L.</ls>; <bot>Wrightia Antidysenterica</bot> &c., <ls>L.</ls>)<info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>diaspyros ebenaster</bot> occurs 1 times
+; new: <bot>diospyros ebenaster</bot> occurs 1 times
+;
+; 223975 : SlakzRapattraka : Diaspyros Ebenaster : Diospyros Ebenaster : typo or print change?=
+; <L>223975<pc>1103,3<k1>SlakzRapattraka<k2>SlakzRa/—pattraka<e>3
+745752 old <s>SlakzRa/—pattraka</s> ¦ <lex>m.</lex> ebony, <bot>Diaspyros Ebenaster</bot>, <ls>L.</ls><info lex="m"/>
+745752 new <s>SlakzRa/—pattraka</s> ¦ <lex>m.</lex> ebony, <bot>Diospyros Ebenaster</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>cyperus hexastychius communis</bot> occurs 2 times
+; new: <bot>cyperus hexastachyus communis</bot> occurs 2 times
+;
+; 14506 : ambuda : Cyperus Hexastychius Communis : Cyperus Hexastachyus Communis : typo or print change?=
+; <L>14506<pc>83,3<k1>ambuda<k2>a/mbu—da<e>3
+52833 old <s>a/mbu—da</s> ¦ <lex>m.</lex> ‘giving water’, a cloud, the plant <bot>Cyperus Hexastychius Communis</bot><info lex="m"/>
+52833 new <s>a/mbu—da</s> ¦ <lex>m.</lex> ‘giving water’, a cloud, the plant <bot>Cyperus Hexastachyus Communis</bot><info lex="m"/>
+;
+; 14521 : ambupattrA : Cyperus Hexastychius Communis : Cyperus Hexastachyus Communis : typo or print change?=
+; <L>14521<pc>83,3<k1>ambupattrA<k2>a/mbu—pattrA<e>3
+52887 old <s>a/mbu—pattrA</s> ¦ <lex>f.</lex> (= <s>-da</s>), the plant <bot>Cyperus Hexastychius Communis</bot><info lex="f"/>
+52887 new <s>a/mbu—pattrA</s> ¦ <lex>f.</lex> (= <s>-da</s>), the plant <bot>Cyperus Hexastachyus Communis</bot><info lex="f"/>
+;
+; ------------------------------------------------------
+; old: <bot>bhojpatra</bot> occurs 1 times
+; new: <bot>bhojpattra</bot> occurs 1 times
+;
+; 94431 : durgakAraka : Bhojpatra : Bhojpattra : typo or print change?=
+; <L>94431<pc>487,2<k1>durgakAraka<k2>durga/—kAraka<e>3
+318322 old <s>durga/—kAraka</s> ¦ <lex>m.</lex> ‘making difficult or impassable’, the <bot>Bhojpatra</bot> or birch-tree, <ls>L.</ls><info lex="m"/>
+318322 new <s>durga/—kAraka</s> ¦ <lex>m.</lex> ‘making difficult or impassable’, the <bot>Bhojpattra</bot> or birch-tree, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>boirhavia</bot> occurs 1 times
+; new: <bot>boerhavia</bot> occurs 1 times
+;
+; 187993 : varzABava : Boirhavia : Boerhavia : typo or print change?=
+; <L>187993<pc>927,2<k1>varzABava<k2>varzA/—Bava<e>3
+628524 old <s>varzA/—Bava</s> ¦ <lex>m.</lex> a red-flowering <bot>Boirhavia</bot>, <ls>L.</ls><info lex="m"/>
+628524 new <s>varzA/—Bava</s> ¦ <lex>m.</lex> a red-flowering <bot>Boerhavia</bot>, <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>cices lens</bot> occurs 1 times
+; new: <bot>cicer lens</bot> occurs 1 times
+;
+; 154330 : maNgalyaka : Cices Lens : Cicer Lens : typo or print change?=
+; <L>154330<pc>773,2<k1>maNgalyaka<k2>maNgalyaka<e>2
+518642 old <s>maNgalyaka</s> ¦ <lex>m.</lex> <bot>Cices Lens</bot>, <ls>Bhpr.</ls><info lex="m"/>
+518642 new <s>maNgalyaka</s> ¦ <lex>m.</lex> <bot>Cicer Lens</bot>, <ls>Bhpr.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; old: <bot>calmus</bot> occurs 1 times
+; new: <bot>calamus</bot> occurs 1 times
+;
+; 92837 : dIpikA : Calmus : Calamus : typo or print change?=
+; <L>92837<pc>481,2<k1>dIpikA<k2>dIpikA<e>2B
+313267 old ¦ <bot>Ptychotis Ajowan</bot> or the root of <bot>Calmus</bot>, <ls>L.</ls><info lex="inh"/>
+313267 new ¦ <bot>Ptychotis Ajowan</bot> or the root of <bot>Calamus</bot>, <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
