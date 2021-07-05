@@ -802,17 +802,17 @@
 ; old: <bot>colosanthes indica</bot> occurs 3 times
 ; new: <bot>calosanthes indica</bot> occurs 16 times
 ;
-; 93197 : dIrGavfnta : Colosanthes Indica : Calosanthes Indica : typo or print change?=typo
+; 93197 : dIrGavfnta : Colosanthes Indica : Calosanthes Indica : typo or print change?=print
 ; <L>93197<pc>482,2<k1>dIrGavfnta<k2>dIrGa/—vfnta<e>3
 314383 old <s>dIrGa/—vfnta</s> ¦ <lex>m.</lex> ‘<ab n="long">l°</ab>-stalked’, <bot>Colosanthes Indica</bot><info lex="m"/>
 314383 new <s>dIrGa/—vfnta</s> ¦ <lex>m.</lex> ‘<ab n="long">l°</ab>-stalked’, <bot>Calosanthes Indica</bot><info lex="m"/>
 ;
-; 93199 : dIrGavfntaka : Colosanthes Indica : Calosanthes Indica : typo or print change?=typo 
+; 93199 : dIrGavfntaka : Colosanthes Indica : Calosanthes Indica : typo or print change?=print
 ; <L>93199<pc>482,2<k1>dIrGavfntaka<k2>dIrGa/—vfntaka<e>3
 314389 old <s>dIrGa/—vfntaka</s> ¦ <lex>m.</lex> <bot>Colosanthes Indica</bot> and a variety of it, <ls>L.</ls><info lex="m"/>
 314389 new <s>dIrGa/—vfntaka</s> ¦ <lex>m.</lex> <bot>Calosanthes Indica</bot> and a variety of it, <ls>L.</ls><info lex="m"/>
 ;
-; 103179 : nawa : Colosanthes Indica : Calosanthes Indica : typo or print change?=typo
+; 103179 : nawa : Colosanthes Indica : Calosanthes Indica : typo or print change?=print
 ; <L>103179<pc>525,2<k1>nawa<k2>nawa<e>2A
 347522 old ¦ <bot>Colosanthes Indica</bot>, <ls>L.</ls><info lex="inh"/>
 347522 new ¦ <bot>Calosanthes Indica</bot>, <ls>L.</ls><info lex="inh"/>
@@ -1701,6 +1701,8 @@
 ;
 ; 14521 : ambupattrA : Cyperus Hexastychius Communis : Cyperus Hexastachyus Communis : typo or print change?=print
 ; <L>14521<pc>83,3<k1>ambupattrA<k2>a/mbu—pattrA<e>3
+; Sampada notes:  Print has abbreviation 'Cyperus Hex. C.' This has been expanded , using
+;  'Hexastachyus Communis' in place of abbreviation 'Hex. C.'
 52887 old <s>a/mbu—pattrA</s> ¦ <lex>f.</lex> (= <s>-da</s>), the plant <bot>Cyperus Hexastychius Communis</bot><info lex="f"/>
 52887 new <s>a/mbu—pattrA</s> ¦ <lex>f.</lex> (= <s>-da</s>), the plant <bot>Cyperus Hexastachyus Communis</bot><info lex="f"/>
 ;
