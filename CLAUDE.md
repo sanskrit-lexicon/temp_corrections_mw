@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -26,3 +28,5 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **Python 3**
 - **CORRECTIONS** sibling repo — source of the error lists
 - **mw.txt** — in `$BASE/cologne/csl-orig/v02/mw/mw.txt`
+
+_Dr. Mārcis Gasūns_
