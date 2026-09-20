@@ -53,3 +53,5 @@ been accumulated but not yet promoted into `csl-orig` via a committed change fil
   `csl-orig/v02/mw/mw.txt`.
 
 _Dr. Mārcis Gasūns_
+
+**AI surface:** n/a: data-only, not a drain pick. (H5173, 20-09-2026)
